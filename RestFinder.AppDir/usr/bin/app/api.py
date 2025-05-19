@@ -1,23 +1,18 @@
-# import requests
-# import json
-# from .models import get_rest_places
-#
-#
-
-# api.py
 import requests
+import os
 from base64 import b64encode
+from dotenv import load_dotenv
 
+load_dotenv()  # Загружает переменные из .env
 
 class AmadeusAPI:
     def __init__(self):
-        self.client_id = "rBUkj51SpofGlFGjay4WJX2itWo3r8Bl"  # Замените на реальные значения
-        self.client_secret = "GiLizifsnPCboCVp"
+        self.client_id = os.getenv("AMADEUS_CLIENT_ID", "")
+        self.client_secret = os.getenv("AMADEUS_CLIENT_SECRET", "")
         self.base_url = "https://test.api.amadeus.com/v1"
         self.access_token = self._get_access_token()
 
     def _get_access_token(self):
-        """Получение OAuth2 токена с обработкой ошибок"""
         try:
             auth_str = f"{self.client_id}:{self.client_secret}"
             auth_b64 = b64encode(auth_str.encode()).decode()
@@ -45,7 +40,6 @@ class AmadeusAPI:
             return None
 
     def search_hotels(self, city_code="PAR", count=50):
-        """Поиск отелей с обработкой ошибок"""
         if not self.access_token:
             return []
 
@@ -67,7 +61,6 @@ class AmadeusAPI:
             response.raise_for_status()
             data = response.json()
 
-            # Фильтрация тестовых отелей
             return [
                        hotel for hotel in data.get("data", [])
                        if not any(x in hotel.get("name", "").upper()
