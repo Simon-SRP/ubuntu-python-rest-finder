@@ -1,11 +1,11 @@
 from PyQt6.QtWidgets import (
-    QApplication, QMainWindow, QListWidget,
+    QApplication, QMainWindow, QListWidget, QComboBox,
     QVBoxLayout, QWidget, QPushButton, QLabel, QScrollArea,
     QLineEdit, QHBoxLayout, QMessageBox, QStackedWidget
 )
 from PyQt6.QtCore import Qt
 from .models import get_hotels
-
+from .api import EUROPEAN_CAPITALS
 
 class RestFinderApp(QApplication):
     def __init__(self, argv):
@@ -40,6 +40,15 @@ class MainWindow(QMainWindow):
         self.main_menu_widget = QWidget()
         layout = QVBoxLayout(self.main_menu_widget)
 
+        self.city_combo = QComboBox()
+        self.city_combo.setStyleSheet("font-size: 16px; padding: 10px;")
+
+        for city in sorted(EUROPEAN_CAPITALS.keys()):
+            self.city_combo.addItem(city)
+
+        default_city_index = list(EUROPEAN_CAPITALS.keys()).index("Москва")
+        self.city_combo.setCurrentIndex(default_city_index)
+
         self.count_input = QLineEdit()
         self.count_input.setPlaceholderText("Введите количество отелей (по умолчанию 50)")
         self.count_input.setStyleSheet("font-size: 16px; padding: 10px;")
@@ -49,6 +58,9 @@ class MainWindow(QMainWindow):
         self.load_btn.clicked.connect(self.load_hotels)
 
         layout.addWidget(QLabel("Hotel Finder"))
+        layout.addWidget(QLabel("Выберите город:"))
+        layout.addWidget(self.city_combo)
+        layout.addWidget(QLabel("Количество отелей:"))
         layout.addWidget(self.count_input)
         layout.addWidget(self.load_btn)
         layout.addStretch()
@@ -88,10 +100,14 @@ class MainWindow(QMainWindow):
             QMessageBox.warning(self, "Ошибка", "Введите корректное число")
             return
 
+        selected_city = self.city_combo.currentText()
+        city_code = EUROPEAN_CAPITALS[selected_city]
+
         self.load_btn.setEnabled(False)
         self.load_btn.setText("Загрузка...")
         QApplication.processEvents()
-        self.hotels = get_hotels(count=count)
+
+        self.hotels = get_hotels(count=count,city_code=city_code)
         self.list_widget.clear()
 
         for i, hotel in enumerate(self.hotels, start=1):
@@ -102,7 +118,6 @@ class MainWindow(QMainWindow):
                 f"{'-' * 50}"
             )
 
-        # Переключаемся на экран с отелями
         self.stacked_widget.setCurrentIndex(1)
         self.load_btn.setText("Показать отели")
         self.load_btn.setEnabled(True)

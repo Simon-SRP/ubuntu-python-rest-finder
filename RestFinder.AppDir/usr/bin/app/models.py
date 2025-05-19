@@ -1,14 +1,14 @@
-from .api import AmadeusAPI
+from .api import AmadeusAPI, EUROPEAN_CAPITALS
 
 
-def get_hotels(count=50):
+def get_hotels(count=50, city_code="PAR"):
     amadeus = AmadeusAPI()
-    hotels = amadeus.search_hotels(count=count)
+    hotels = amadeus.search_hotels(count=count,city_code=city_code)
 
     if not hotels:
         return [{
             "name": f"Пример отеля {i}",
-            "address": f"Адрес {i}, Париж",
+            "address": f"Адрес {i}, {list(EUROPEAN_CAPITALS.keys())[list(EUROPEAN_CAPITALS.values()).index(city_code)]}",
             "rating": round(4 + (i % 3) / 2, 1),
             "distance": f"{i * 0.5} км"
         } for i in range(1, count+1)]

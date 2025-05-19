@@ -3,7 +3,33 @@ import os
 from base64 import b64encode
 from dotenv import load_dotenv
 
-load_dotenv()  # Загружает переменные из .env
+load_dotenv()
+
+EUROPEAN_CAPITALS = {
+    "Амстердам": "AMS",
+    "Афины": "ATH",
+    "Берлин": "BER",
+    "Бруссель": "BRU",
+    "Будапешт": "BUD",
+    "Копенгаген": "CPH",
+    "Дублин": "DUB",
+    "Хельсинки": "HEL",
+    "Лиссабон": "LIS",
+    "Лондон": "LON",
+    "Мадрид": "MAD",
+    "Москва": "MOW",
+    "Осло": "OSL",
+    "Париж": "PAR",
+    "Прага": "PRG",
+    "Ром": "ROM",
+    "Стокгольм": "ARN",
+    "Вена": "VIE",
+    "Варшава": "WAW",
+    "Загреб": "ZAG"
+}
+
+
+
 
 class AmadeusAPI:
     def __init__(self):
@@ -39,7 +65,7 @@ class AmadeusAPI:
             print(f"Ошибка при получении токена: {e}")
             return None
 
-    def search_hotels(self, city_code="PAR", count=50):
+    def search_hotels(self, city_code="MOW", count=50):
         if not self.access_token:
             return []
 
@@ -63,8 +89,10 @@ class AmadeusAPI:
 
             return [
                        hotel for hotel in data.get("data", [])
-                       if not any(x in hotel.get("name", "").upper()
-                                  for x in ["TEST", "PROPERTY"])
+                       if (
+                        not any(x in hotel.get("name", "").upper() for x in ["TEST", "PROPERTY"])
+                        and not hotel.get("closed", False)  # Проверка на закрытые отели
+                )
                    ][:count]
 
         except Exception as e:
