@@ -1,21 +1,42 @@
-from .api import AmadeusAPI, EUROPEAN_CAPITALS
+import json
+import os
 
 
-def get_hotels(count=50, city_code="PAR"):
-    amadeus = AmadeusAPI()
-    hotels = amadeus.search_hotels(count=count,city_code=city_code)
+def get_hotels(city_name):
+    """Загружает все отели для указанного города из файла"""
+    try:
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        city_file = os.path.join(current_dir, "city", f"{city_name}.json")
 
-    if not hotels:
-        return [{
-            "name": f"Пример отеля {i}",
-            "address": f"Адрес {i}, {list(EUROPEAN_CAPITALS.keys())[list(EUROPEAN_CAPITALS.values()).index(city_code)]}",
-            "rating": round(4 + (i % 3) / 2, 1),
-            "distance": f"{i * 0.5} км"
-        } for i in range(1, count+1)]
+        if not os.path.exists(city_file):
+            return []
 
-    return [{
-        "name": hotel.get("name", "Без названия"),
-        "address": hotel.get("address", {}).get("lines", ["Адрес не указан"])[0],
-        "rating": hotel.get("rating", "N/A"),
-        "distance": f"{hotel.get('distance', {}).get('value', 0)} {hotel.get('distance', {}).get('unit', 'km')}"
-    } for hotel in hotels]
+        with open(city_file, 'r', encoding='utf-8') as f:
+            hotels = json.load(f)
+
+            # Проверяем и чистим данные
+            valid_hotels = []
+            for hotel in hotels:
+                if not isinstance(hotel, dict):
+                    continue
+
+                # Проверяем обязательные поля
+                if 'name' not in hotel or not hotel['name']:
+                    continue
+
+                # Устанавливаем значения по умолчанию
+                hotel.setdefault('rating', 'N/A')
+                hotel.setdefault('distance', 'N/A')
+                hotel.setdefault('address', 'Адрес не указан')
+                hotel.setdefault('description', 'Описание отсутствует')
+                hotel.setdefault('image_url', '')
+                hotel.setdefault('hotel_url', '')
+
+                valid_hotels.append(hotel)
+
+            return valid_hotels
+
+    except Exception as e:
+        print(f"Ошибка загрузки файла {city_name}.json: {e}")
+        return []
+
