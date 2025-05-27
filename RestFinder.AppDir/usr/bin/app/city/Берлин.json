@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Hotel Gat Point Charlie",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u0434\u0438\u0437\u0430\u0439\u043d-\u043e\u0442\u0435\u043b\u044c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430 \u041c\u0438\u0442\u0442\u0435, \u0432\u0441\u0435\u0433\u043e \u0432 50 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u041a\u041f\u041f \u0427\u0435\u043a\u043f\u043e\u0439\u043d\u0442 \u0427\u0430\u0440\u043b\u0438 \u0438 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0439 \u0443\u043b\u0438\u0446\u044b \u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0448\u0442\u0440\u0430\u0441\u0441\u0435.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/667746522.webp?k=336e67e2c1e7d04f808af9712ae74f0bcce75d3a05a65da54ef9e2dc14ecc70a&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/gat-point-charlie.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "The Social Hub Berlin Alexanderplatz Extended Stay",
+    "rating": "N/A",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Social Hub Berlin Alexanderplatz Extended Stay \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d, \u0432 700 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0435\u0440\u043f\u043b\u0430\u0446.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/686045105.webp?k=bde4725b12b4265fdbd1f85195dbd12f833e48b0ed1934f288111088d46bf18e&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/the-social-hub-berlin-alexanderplatz-extended-stay.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "martas Hotel Albrechtshof Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "This 3-star hotel is quietly located in Berlin\u2019s popular district of Mitte.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/91542853.webp?k=ba88de59e844180d06aeb1f308c6779eefd7db43a251ad7e116e62cac0d327e1&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/albrechtshof.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "relexa hotel Stuttgarter Hof",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d-\u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Relexa Stuttgarter Hof \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0411\u0435\u0440\u043b\u0438\u043d\u0435, \u0432 200 \u043c \u043e\u0442 \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 Anhalter. \u0412 800 \u043c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u041f\u043e\u0442\u0441\u0434\u0430\u043c\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/51715702.webp?k=abe8f12b008189c3179852e80d56a88a61be6910ff1e1d2f8f05ce4ec0dfdf68&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/relaxa-stuttgarter-hof.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "NH Collection Berlin Mitte Friedrichstrasse",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "0,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 4-\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0439 \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u043e\u0441\u0442\u0438 \u0443\u0434\u043e\u0431\u043d\u043e \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u0432\u0441\u0435\u043c\u0438\u0440\u043d\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0439 \u0443\u043b\u0438\u0446\u0435 \u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0448\u0442\u0440\u0430\u0441\u0441\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/516001002.webp?k=e5aad8766c0abaa21fabd3c52dddb5f47603469ce79402cae2a4417f60e492e6&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/jollyvivaldi.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "martas Hotel Allegra Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 3-\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c, \u043e\u0442\u043a\u0440\u044b\u0432\u0448\u0438\u0439 \u0441\u0432\u043e\u0438 \u0434\u0432\u0435\u0440\u0438 \u0432 1861 \u0433\u043e\u0434\u0443, \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043a\u0443\u0445\u043d\u0438 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0432 \u043d\u043e\u043c\u0435\u0440\u0430\u0445.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/176850313.webp?k=484da41e02f68619f43ad9b30993fb73efcaf5db9fb1db5fb54052e998896270&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/hotelallegra.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Leonardo Hotel Berlin Mitte",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "0,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0447\u0430\u0441\u0442\u0438 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432 100 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u0411\u0435\u0440\u043b\u0438\u043d-\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0448\u0442\u0440\u0430\u0441\u0441\u0435. \u0412 \u043e\u0442\u0435\u043b\u0435 Leonardo Berlin Mitte \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/385591282.webp?k=7693006037b1ef29e2fbac495c2b7942a8ca4b6e0416c3613188db294ba12a89&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/leonardo-berlin-mitte.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "The Circus Living",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d-\u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "3,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Circus Living \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0435\u0440\u043b\u0438\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 1,8 \u043a\u043c \u0438 1,5 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u0413\u0430\u043b\u0435\u0440\u0435\u044f East Side Gallery \u0438 \u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0435\u0440\u043f\u043b\u0430\u0446.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/545507940.webp?k=b5be69eaf47627987078846576f1e812940502a60dad6c4c7bca6989ef7ea5a3&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/the-circus-living-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "JW Marriott Hotel Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u043e\u0442\u0435\u043b\u044c Berlin Central District! \u042d\u0442\u043e\u0442 \u043f\u0435\u0440\u0432\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0441 \u043f\u0430\u0440\u043a\u043e\u043c \u0422\u0438\u0440\u0433\u0430\u0440\u0442\u0435\u043d, \u0432\u0441\u0435\u0433\u043e \u0432 1 \u043a\u043c \u043e\u0442 \u041f\u043e\u0442\u0441\u0434\u0430\u043c\u0441\u043a\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u0438. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u0438 \u0431\u0430\u0441\u0441\u0435\u0439\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/427678099.webp?k=a8ff2c47360b54cf8ae980dbbcbb53d111fe1b0488776f7d8ba27756602cb775&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/hotel-berlin-central-district.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Steigenberger Hotel Am Kanzleramt",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Steigenberger am Kanzleramt \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0411\u0435\u0440\u043b\u0438\u043d\u0435, \u0432\u0441\u0435\u0433\u043e \u0432 800 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0411\u0440\u0430\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0438\u0445 \u0432\u043e\u0440\u043e\u0442 \u0438 \u0440\u044f\u0434\u043e\u043c \u0441\u043e \u0437\u0434\u0430\u043d\u0438\u044f\u043c\u0438 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0433\u043e \u043f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/67608147.webp?k=d2705727852a6105af3070c391ffdcd0533225a0bf64796b5f0b24fe2bd6b90d&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/steigenberger-am-kanzleramt.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "martas Hotel Berlin-Mitte",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "This boutique hotel is a beautiful historic building located in a quiet street right in the heart of Berlin\u2019s Mitte district, close to many galleries, restaurants and tourist attractions.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/579114533.webp?k=848f986dea2de0cf2ef4a62acf509fcd8c1b3e89b9e92bf981bca4b8642c1a33&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/augustinenhof.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Hotel AMANO Grand Central",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 3 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u0411\u0435\u0440\u043b\u0438\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/303680645.webp?k=29eff1ebc5ae103be25f486b09b57f15b9ef6dbe6199b935fd01e57de4b05340&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/amano-grand-central.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Hotel Berlin Mitte by Campanile",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,7",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 3-\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0439 \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u043e\u0441\u0442\u0438 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430 \u2014 \u041c\u0438\u0442\u0442\u0435. \u0421\u0432\u0435\u0442\u043b\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u044b \u0432 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0441\u0442\u0438\u043b\u0435.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/111808408.webp?k=b7f18ad2fd711c1112f989ef644c55a1e3ba59e5ed7efa688e52f457dbc4e403&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/nordic-berlin-mitte.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Radisson Collection Hotel, Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Radisson Collection Hotel, Berlin \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d, \u0432 300 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0411\u0435\u0440\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u0430\u0444\u0435\u0434\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u043e\u0431\u043e\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/646984232.webp?k=26c44174c379d567d8de058e6cf33a0d9fdf2c638c1454d72afae4171982d0f1&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/radisson-sas-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "MEININGER Hotel Berlin Hauptbahnhof",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,6",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u043c\u0435\u0436\u0434\u0443 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u043c \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u043c \u0432\u043e\u043a\u0437\u0430\u043b\u043e\u043c \u0411\u0435\u0440\u043b\u0438\u043d\u0430 \u0438 \u0437\u0434\u0430\u043d\u0438\u0435\u043c \u0440\u0435\u0439\u0445\u0441\u0442\u0430\u0433\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/371052324.webp?k=18d948459679b153287ca2beca7482c7c78ed2699740c0488cf40588f260cf58&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/meininger-berlin-hauptbahnhof.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Catalonia Berlin Mitte",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Catalonia Berlin Mitte \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430\u043f\u0440\u043e\u0442\u0438\u0432 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Heinrich-Heine-Str, \u0432 15 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439 \u0411\u0435\u0440\u043b\u0438\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/238767450.webp?k=9c886d9c7263116641091df5d878bffec882067dd8760472923a5a014ebe6e01&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/catalonia-berlin-mitte.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Great 3-room apartment",
+    "rating": "N/A",
+    "address": "\u0422\u0435\u043c\u043f\u0435\u043b\u044c\u0445\u043e\u0444-\u0428\u0451\u043d\u0435\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Great 3-room apartment \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d, \u0432 4,9 \u043a\u043c \u0438 5,2 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0411\u0443\u043b\u044c\u0432\u0430\u0440 \u041a\u0443\u0440\u0444\u044e\u0440\u0441\u0442\u0435\u043d\u0434\u0430\u043c\u043c \u0438 \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e Zoologischer Garten.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/632852868.webp?k=402d6dfdf63fc55036e1ae22841c6bc0bf29015090e44dd38adc34b4a6481488&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/great-3-room-apartment.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Michelberger Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d-\u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u043e\u0436\u0438\u0432\u043b\u0435\u043d\u043d\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430 \u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d, \u0432\u0441\u0435\u0433\u043e \u0432 500 \u043c \u043e\u0442 \u0441\u0442\u0430\u0434\u0438\u043e\u043d\u0430 \u00abO2 \u0423\u043e\u0440\u043b\u0434 \u0410\u0440\u0435\u043d\u0430\u00bb.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/185789428.webp?k=937d3ed6fbddf980765f4158023bc173b0cc6c24a8eacab61e4f7befd1bee663&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/michelbergerhotel.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Industriepalast Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d-\u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u0441\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0435\u043b \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 2 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0433\u0430\u043b\u0435\u0440\u0435\u0438 \u0418\u0441\u0442-\u0421\u0430\u0439\u0434 \u0438 \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u043d\u043e\u0447\u043d\u043e\u0433\u043e \u043a\u043b\u0443\u0431\u0430 Watergate, \u0432 \u0431\u0435\u0440\u043b\u0438\u043d\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/577109018.webp?k=5b0530bcfedc3f9bb68eecd9137b98569957aabb45de9f8bee364a3c3643e717&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/industriepalast-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Berlin Marriott Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "0,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0411\u0435\u0440\u043b\u0438\u043d\u0435, \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0411\u0440\u0430\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0438\u0445 \u0432\u043e\u0440\u043e\u0442 \u0438 \u0432 100 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u043f\u0430\u0440\u043a\u0430 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0422\u0438\u0440\u0433\u0430\u0440\u0442\u0435\u043d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u044d\u043b\u0435\u0433\u0430\u043d\u0442\u043d\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430 \u0438 \u043a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u044b\u0439 \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/591797380.webp?k=f575008419c802b227df1ea752c29433dac6b97e5e1ae1f73bbf473de2213ba8&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/marriott-am-potsdamer-platz.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "TITANIC Comfort Mitte",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "A 5-minute walk from Spittelmarkt Underground Station, this modern hotel in Berlin\u2019s Mitte district is situated between Alexanderplatz and Potsdamer Platz.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/500413081.webp?k=60edbfab33fbc9a5d8a465f53c0a67d2a776c9865ad4b993039043376b5bc0e4&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/titanic-comfort-berlin-mitte.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "The Social Hub Berlin Alexanderplatz",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Social Hub Berlin Alexanderplatz \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d, \u0432 600 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0435\u0440\u043f\u043b\u0430\u0446.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/250468984.webp?k=8119e26142b5e4f7f5864d6e4c1e04cc67b0ba5f737332f692cf49e83d5fd947&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/the-social-hub-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Motel One Berlin-Alexanderplatz",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Motel One Berlin-Alexanderplatz \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u0438 \u0431\u0430\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/494815667.webp?k=05e38e5f35b1f5414bd48479a754f9d11107f8f4faa722ddff9ee7eb90d93752&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/motel-one-berlin-alexanderplatz-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Hotel Sachsenhof",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u0422\u0435\u043c\u043f\u0435\u043b\u044c\u0445\u043e\u0444-\u0428\u0451\u043d\u0435\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "This 3-star hotel is located in a quiet side street in Berlin\u2019s Sch\u00f6neberg district, a 2-minute walk from the lively Nollendorfplatz Square. Hotel Sachsenhof offers a 24-hour reception and free Wi-Fi....",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/3949105.webp?k=a92afa80be4588562a70e860c36f828ab00e1abdf21e346dcd4fa120526ef038&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/sachsenhof.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "H4 Hotel Berlin Alexanderplatz",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432\u0441\u0435\u0433\u043e \u0432 2 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0435\u0440\u043f\u043b\u0430\u0446.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/118769167.webp?k=93476272a12b229f307085c2a8084377765ce85794cca1e17f59d2d2f7f06679&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/h4-hotel-berlin-alexanderplatz.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Pestana Berlin Tiergarten",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Pestana Berlin Tiergarten \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d, \u0432 1,1 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e Zoologischer Garten. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u043e\u0431\u0449\u0438\u0439 \u043b\u0430\u0443\u043d\u0434\u0436, \u0442\u0435\u0440\u0440\u0430\u0441\u0430, \u0431\u0430\u0440 \u0438 \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/537702289.webp?k=3241423e1cb11524611a5020a3792abe03e4662764176f934aa476563a8e6fe8&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/pestana-berlin-tiergarten.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "Park Plaza Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433-\u0412\u0438\u043b\u044c\u043c\u0435\u0440\u0441\u0434\u043e\u0440\u0444, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "4,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Take your next city break in the upscale heart of Berlin at Park Plaza Berlin Charlottenburg.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/413116688.webp?k=55a9a479ec94d9c34da68251b2f03efd916550917401f6dfe1bb04edc2df08b1&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/art-otel-berlin-kudamm.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Maritim proArte Hotel Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c \u0441 \u044d\u043b\u0435\u0433\u0430\u043d\u0442\u043d\u044b\u043c\u0438 \u043d\u043e\u043c\u0435\u0440\u0430\u043c\u0438 \u0438 \u0441\u043f\u0430-\u0446\u0435\u043d\u0442\u0440\u043e\u043c \u0441 \u043a\u0440\u044b\u0442\u044b\u043c \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u043e\u043c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430. \u041e\u0442 \u043e\u0442\u0435\u043b\u044f \u043d\u0430 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0439 \u0443\u043b\u0438\u0446\u0435 \u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0448\u0442\u0440\u0430\u0441\u0441\u0435 \u0434\u043e \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e \u2014 300 \u043c\u0435\u0442\u0440\u043e\u0432.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/469387221.webp?k=926434bedab7efc53848d292cd52c545eec1db53211d4595966d448c7cd00cf4&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/maritimberlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "June Six Hotel Berlin City West",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433-\u0412\u0438\u043b\u044c\u043c\u0435\u0440\u0441\u0434\u043e\u0440\u0444, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "3,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u044d\u043b\u0435\u0433\u0430\u043d\u0442\u043d\u043e\u043c \u0431\u0435\u0440\u043b\u0438\u043d\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433, \u0432 50 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u0421\u0430\u0432\u0438\u043d\u044c\u0438\u043f\u043b\u0430\u0446. \u0413\u043e\u0441\u0442\u0438 \u043e\u0442\u0435\u043b\u044f June Six Berlin City West \u043c\u043e\u0433\u0443\u0442 \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/400512287.webp?k=ae4348ab4c0b655a635c9cf243334f556ee7a65cd099f32d2023c224fddfe00b&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/june-six-hotel.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "TITANIC Chaussee Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Titanic Chausee Berlin \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u0411\u0435\u0440\u043b\u0438\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/528764267.webp?k=40255a4bc74948961d3b42eeee0e7346ae0656a3a64590451e56112e9436a17c&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/titanic-chaussee-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "DoubleTree by Hilton Berlin Ku'damm",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433-\u0412\u0438\u043b\u044c\u043c\u0435\u0440\u0441\u0434\u043e\u0440\u0444, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "3,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0431\u0435\u0440\u043b\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0431\u0443\u043b\u044c\u0432\u0430\u0440\u0430 \u041a\u0443\u0440\u0444\u044e\u0440\u0441\u0442\u0435\u043d\u0434\u0430\u043c. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 420 \u043e\u0442\u0440\u0435\u043c\u043e\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043d\u043e\u043c\u0435\u0440\u043e\u0432 \u0438 \u043b\u044e\u043a\u0441\u043e\u0432, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441\u0430\u0443\u043d\u0430 \u0438 \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/664265467.webp?k=d019c688ed2e36f1e1f76dca4772f5d9f79aaaa1a4f6ab3c89ef73f65e654ade&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/doubletreebyhiltonberlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Quentin XL Potsdamer Platz",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,8",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Newly opened in 2018, this modern hotel in central Berlin is within a 5-10 minute walk from the Potsdamer Platz square. It offers bright, stylish rooms and very good transport connections.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/264075170.webp?k=6360a2cb89e97a614345197a24ef7f950a9300644a0e0309d926110b2858eb8c&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/quentin-xl-potsdamer-platz.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "Three Little Pigs Hostel - Your Berlin Castle",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d-\u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Set within a former 19th-century convent, this hostel is a 10-minute walk from Checkpoint Charlie and the striking Potsdamer Platz square. Free Wi-Fi is offered.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/324711290.webp?k=81e358eedfd29c61cdf39ef675241f4d509412a783e937584acb636929f9d6ce&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/three-little-pigs-hostel.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "Premier Inn Berlin Alexanderplatz",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Premier Inn Berlin Alexanderplatz \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d. \u0412\u0441\u0435\u043c \u0433\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u043d\u0430 \u0432\u0441\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438. \u041f\u043e \u0443\u0442\u0440\u0430\u043c \u0441\u0435\u0440\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0437\u0430\u0432\u0442\u0440\u0430\u043a \u00ab\u0448\u0432\u0435\u0434\u0441\u043a\u0438\u0439 \u0441\u0442\u043e\u043b\u00bb.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/466325721.webp?k=93782c8f6eeb9f862648124f11d2ebe384a28914d3f2c4a3d8ef9f056754ca49&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/premier-inn-berlin-alexanderplatz.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "Bellman Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041d\u043e\u0439\u043a\u0435\u043b\u044c\u043d, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "7,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Bellman Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d, \u0432 6,1 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0413\u0430\u043b\u0435\u0440\u0435\u044f East Side Gallery.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/544354558.webp?k=edcbaa584b09b6262b270e245b70dca993d4016ca770364be16bfda168ad740c&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/bellman.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "Eurostars Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "0,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u044d\u0442\u043e\u0433\u043e \u0440\u043e\u0441\u043a\u043e\u0448\u043d\u043e\u0433\u043e \u043e\u0442\u0435\u043b\u044f \u0441\u043f\u0430-\u0446\u0435\u043d\u0442\u0440, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u043e\u0433\u043e \u043d\u0430 \u0432\u0435\u0440\u0445\u043d\u0435\u043c \u044d\u0442\u0430\u0436\u0435, \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u0438 \u0438\u0437\u044b\u0441\u043a\u0430\u043d\u043d\u044b\u0435 \u0431\u043b\u044e\u0434\u0430 \u0438\u043d\u0442\u0435\u0440\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u043a\u0443\u0445\u043d\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/120198181.webp?k=8a4c44712b98d11eebee759d180e897deb140fcb804bf1c7638231ec348e429c&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/eurostars-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Hotel Atlantic",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,9",
+    "address": "\u041d\u043e\u0439\u043a\u0435\u043b\u044c\u043d, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "10,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u044e\u0433\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 15 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u043e\u0442 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0430 \u0411\u0435\u0440\u043b\u0438\u043d-\u0428\u0451\u043d\u0435\u0444\u0435\u043b\u044c\u0434. \u0412 \u043d\u043e\u043c\u0435\u0440\u0430\u0445 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi. \u041e\u0442\u0435\u043b\u044c Atlantic \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043f\u0440\u044f\u043c\u043e \u0443 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u044b \u041d\u043e\u0439\u043a\u0451\u043b\u044c\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/21874978.webp?k=c3200038337b550fd798b8510a1b26808427e11fbc0aa5b8f6c6d5e3f44dadcf&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/greenatlantic.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "Motel One Berlin-Bellevue",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Motel One Berlin-Bellevue \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0434\u0432\u043e\u0440\u0446\u0430 \u0411\u0435\u043b\u044c\u0432\u044e \u0438 \u043f\u0430\u0440\u043a\u0430 \u00ab\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0422\u0438\u0440\u0433\u0430\u0440\u0442\u0435\u043d\u00bb. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440, \u043a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u044b\u0439 \u0431\u0430\u0440 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/482030166.webp?k=165ee8e8600c1af96c5a10737aedfc756894b21aa814660ad5d0e8a4db53a23e&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/motel-one-berlin-bellevue.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "a&o Berlin Mitte",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,3",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "3,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u0445\u043e\u0441\u0442\u0435\u043b \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430 \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0439 \u0433\u0430\u043b\u0435\u0440\u0435\u0438 East Side. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0431\u0449\u0438\u0439 \u043b\u0430\u0443\u043d\u0434\u0436 \u0438 \u043d\u043e\u043c\u0435\u0440\u0430 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0439.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/158513786.webp?k=15aabb1019f2dfb4c2a68fd4228eb47a3535ab99f5b02b3eff7881230e0c1968&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/mitteberlinhostelao.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Hollywood Media Hotel am Kurf\u00fcrstendamm",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433-\u0412\u0438\u043b\u044c\u043c\u0435\u0440\u0441\u0434\u043e\u0440\u0444, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "4,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Hollywood Media Hotel am Kurf\u00fcrstendamm \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d, \u0432 80 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0411\u0443\u043b\u044c\u0432\u0430\u0440 \u041a\u0443\u0440\u0444\u044e\u0440\u0441\u0442\u0435\u043d\u0434\u0430\u043c\u043c. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u0431\u0430\u0440 \u0438 \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/173701995.webp?k=52d0be5c01083b59786d3d8d53f441997d8f24aa7c5ca09b2c9fa0167f38e05d&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/hollywood-media.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "Hampton by Hilton Berlin City Centre Alexanderplatz",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,0",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0435\u0440\u043f\u043b\u0430\u0446.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/484087659.webp?k=a071344f90000b01b6aa1d5ca66b790cccde5075da1cf157f381e2c6c8d0fd23&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/hampton-by-hilton-berlin-city-centre-alexanderplatz.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Sheraton Berlin Grand Hotel Esplanade",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,7",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0421\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u0441 \u044d\u043b\u0435\u0433\u0430\u043d\u0442\u043d\u044b\u043c\u0438 \u043d\u043e\u043c\u0435\u0440\u0430\u043c\u0438 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432\u0441\u0435\u0433\u043e \u0432 600 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0431\u0435\u0440\u043b\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u043f\u0430\u0440\u043a\u0430 \u0422\u0438\u0440\u0433\u0430\u0440\u0442\u0435\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/469208574.webp?k=870fffab6cb754f5972cb3d707fb0559032d9178bbaefba987cc27da34c457d9&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/hotelesplanadeberlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "Holiday Inn Express - Berlin - Alexanderplatz by IHG",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Holiday Inn Express - Berlin - Alexanderplatz \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u043b\u0441\u044f \u0432 \u0431\u0435\u0440\u043b\u0438\u043d\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u041c\u0438\u0442\u0442\u0435, \u0432 600 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0411\u0435\u0440\u043b\u0438\u043d\u0441\u043a\u043e\u0439 \u0442\u0435\u043b\u0435\u0431\u0430\u0448\u043d\u0438. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0430\u0440 \u0438 \u043a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u0430\u044f \u0441\u0442\u043e\u0439\u043a\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/262496496.webp?k=2fbfe962de39b11cfff09c7ba60b420916dfdd0484cc24c99ea33931d553bbb1&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/holiday-inn-express-berlin-alexanderplatz.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from=searchresults"
+  },
+  {
+    "name": "Living Hotel Gro\u00dfer Kurf\u00fcrst",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0427\u0435\u0442\u044b\u0440\u0435\u0445\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0442\u0438\u0445\u043e\u043c \u043c\u0435\u0441\u0442\u0435 \u0443 \u0440\u0435\u043a\u0438 \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 2 \u0441\u0442\u0430\u043d\u0446\u0438\u044f\u0445 \u043c\u0435\u0442\u0440\u043e \u043e\u0442 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0435\u0440\u043f\u043b\u0430\u0446.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/172821492.webp?k=1d72c21c7c94b5a77dc82436762b461c548ae102e869b2574792fa11718a628d&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/kurfuerstderag.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Living Hotel Berlin Mitte",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 4-\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0442\u0438\u0445\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430 \u043d\u0430 \u0431\u0435\u0440\u0435\u0433\u0443 \u0440\u0435\u043a\u0438 \u0428\u043f\u0440\u0435\u0435, \u043c\u0435\u0436\u0434\u0443 \u043f\u043b\u043e\u0449\u0430\u0434\u044c\u044e \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0435\u0440\u043f\u043b\u0430\u0446 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u043e-\u043f\u0440\u043e\u043f\u0443\u0441\u043a\u043d\u044b\u043c \u043f\u0443\u043d\u043a\u0442\u043e\u043c \u0427\u0435\u043a\u043f\u043e\u0439\u043d\u0442-\u0427\u0430\u0440\u043b\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/177116388.webp?k=0ac7eaf1412be57df6bb94c459c0f01d7086ff10882767c7d653dcd357b16c25&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/derag-livinghotel-berlin-mitte.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "TITANIC Comfort Kurf\u00fcrstendamm",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u0422\u0435\u043c\u043f\u0435\u043b\u044c\u0445\u043e\u0444-\u0428\u0451\u043d\u0435\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "TITANIC Comfort Kurf\u00fcrstendamm \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d. \u0412\u0441\u0435\u043c \u0433\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u043d\u0430 \u0432\u0441\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438. \u041f\u043e \u0443\u0442\u0440\u0430\u043c \u0441\u0435\u0440\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0437\u0430\u0432\u0442\u0440\u0430\u043a \u00ab\u0448\u0432\u0435\u0434\u0441\u043a\u0438\u0439 \u0441\u0442\u043e\u043b\u00bb.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/334420047.webp?k=ab5b8c275616ce59e9ebf6a446f3ce316b903419dce545453b8803eeedae2c3a&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/titanic-comfort-kurfurstendamm.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "The Westin Grand Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0443\u043b\u0438\u0446\u0435 \u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0448\u0442\u0440\u0430\u0441\u0441\u0435 \u0432 \u0411\u0435\u0440\u043b\u0438\u043d\u0435. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0441\u043f\u0430-\u0446\u0435\u043d\u0442\u0440, \u043f\u0440\u0435\u043b\u0435\u0441\u0442\u043d\u044b\u0439 \u0441\u0430\u0434 \u0438 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0435 \u043b\u043e\u0431\u0431\u0438 \u0441 \u043f\u0430\u0440\u0430\u0434\u043d\u043e\u0439 \u043b\u0435\u0441\u0442\u043d\u0438\u0446\u0435\u0439. \u041f\u0440\u043e\u0433\u0443\u043b\u043a\u0430 \u0434\u043e \u0411\u0440\u0430\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0438\u0445 \u0432\u043e\u0440\u043e\u0442 \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 10...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/430819859.webp?k=fd65c9bffc41c35895804ee6414ec6454688f51df97b78e002b8eadfb143ab09&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/westingrand.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=47&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Hotel Berlin, Berlin, a member of Radisson Individuals",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0442\u0435\u043b\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi, \u0441\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u043b\u0430\u0443\u043d\u0434\u0436-\u0431\u0430\u0440 \u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u043e\u0440\u043e\u043c \u0441 \u043f\u043b\u043e\u0441\u043a\u0438\u043c \u044d\u043a\u0440\u0430\u043d\u043e\u043c. \u041f\u0440\u043e\u0433\u0443\u043b\u043a\u0430 \u0434\u043e \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u043c\u0430\u0433\u0430 KaDeWe \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 5 \u043c\u0438\u043d\u0443\u0442.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/472654923.webp?k=76b90134a90f10a285fbd6d2691c6d2b424212a68d30750f89c37c1292ed66ee&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/bbberlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=48&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Candlewood Suites Berlin Charlottenburg by IHG",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,0",
+    "address": "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433-\u0412\u0438\u043b\u044c\u043c\u0435\u0440\u0441\u0434\u043e\u0440\u0444, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "3,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Candlewood Suites Berlin Charlottenburg by IHG \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433-\u0412\u0438\u043b\u044c\u043c\u0435\u0440\u0441\u0434\u043e\u0440\u0444 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0435\u0440\u043b\u0438\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 2,7 \u043a\u043c \u0438 3,4 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/606595791.webp?k=65d0bf8ac912591dcb2e8dfa5d15788d9410859f35b9ef3d67e5b6df36c218f4&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/acora-living-the-city-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=49&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "a&o Berlin Hauptbahnhof",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,5",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0425\u043e\u0441\u0442\u0435\u043b \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432\u0441\u0435\u0433\u043e \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u0411\u0435\u0440\u043b\u0438\u043d\u0430. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430 \u0438 \u043a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u0430\u044f \u0441\u0442\u043e\u0439\u043a\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/188929370.webp?k=888eeb52a703b026abe881e5ef681b5d1396981d08c6043ba446fc0261948ed6&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/a-o-berlin-hauptbahnhof.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=50&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297199&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "NH Collection Berlin Mitte am Checkpoint Charlie",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 4-\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0440\u0430\u0439\u043e\u043d\u0430 \u041c\u0438\u0442\u0442\u0435, \u0432\u0441\u0435\u0433\u043e \u0432 100 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0439 \u0443\u043b\u0438\u0446\u044b \u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0448\u0442\u0440\u0430\u0441\u0435.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/470823444.webp?k=956552a0e321b5e6b7fafe614da7519938b06018b9ebe91a033936b212b50d28&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/nhberlinmitte.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=51&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "TITANIC Gendarmenmarkt Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c \u043a\u043b\u0430\u0441\u0441\u0430 \u043b\u044e\u043a\u0441 Titanic Gendarmenmarkt \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432 200 \u043c \u043e\u0442 \u044d\u043b\u0435\u0433\u0430\u043d\u0442\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u0416\u0430\u043d\u0434\u0430\u0440\u043c\u0435\u043d\u043c\u0430\u0440\u043a\u0442.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/45837959.webp?k=95c8fc15a7f6a227ae8f25d02c4477512a1c662038cf5e3a283db45bb85822f0&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/titanic-gendarmenmarkt-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=52&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Park Plaza Wallstreet Berlin Mitte",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0427\u0435\u0442\u044b\u0440\u0435\u0445\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c Park Plaza \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432 100 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Spittelmarkt. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi \u0438 \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/233362212.webp?k=30a78a2c7b3e14ef87ff127e67fb6588940675f0c933ffb5ade734344945eade&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/wallstreet-park-plaza.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=53&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "IntercityHotel Berlin Hauptbahnhof",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0421\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c InterCityHotel Berlin Hauptbahnhof \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 200 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u0411\u0435\u0440\u043b\u0438\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/22500707.webp?k=5b2b56d3dc5f3c77a021e84671db4c91016a6aeaa3bd9313fc9166f35ba7c7a8&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/intercityhotel-berlin-hbf.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=54&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Park Inn by Radisson Berlin Alexanderplatz",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,8",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u044d\u0442\u043e\u0433\u043e 4-\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u043e\u0433\u043e \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0442\u0435\u043b\u044f 3 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0430, \u0441\u043f\u0430-\u0441\u0430\u043b\u043e\u043d \u0438 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u043c \u0438 \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u043e\u0440\u043e\u043c \u0441 \u043f\u043b\u043e\u0441\u043a\u0438\u043c \u044d\u043a\u0440\u0430\u043d\u043e\u043c. \u042d\u0442\u043e \u0441\u0430\u043c\u044b\u0439 \u0432\u044b\u0441\u043e\u043a\u0438\u0439 \u043e\u0442\u0435\u043b\u044c \u0411\u0435\u0440\u043b\u0438\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/621338032.webp?k=e1f1fc3b8b27626dae291ac5db49dbaa1ca4ee2984a5abf26e5b9403c277dd97&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/park-inn-berlin-alexanderplatz.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=55&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "SMARTments business Berlin Karlshorst",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "\u041b\u0438\u0445\u0442\u0435\u043d\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "10,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0410\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b Smartments business Berlin Karlshorst \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 \u0411\u0435\u0440\u043b\u0438\u043d\u0435, \u0432 8 \u043a\u043c \u043e\u0442 \u0433\u0430\u043b\u0435\u0440\u0435\u0438 \u0418\u0441\u0442-\u0421\u0430\u0439\u0434. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/106497426.webp?k=976918e2769fe6b917731d19d2df0b0128b4cdd648dca3ae24924f747e02beed&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/smartments-business-berlin-karlshorst.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=56&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Nena Apartments - Kreuzberg 61",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d-\u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Nena Apartments - Kreuzberg 61 \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 1,9 \u043a\u043c \u0438 1,7 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041c\u0443\u0437\u0435\u0439 \u00ab\u0422\u043e\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u044f \u0442\u0435\u0440\u0440\u043e\u0440\u0430\u00bb \u0438 \u041a\u041f\u041f...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/309921132.webp?k=1ef127fbbc06afa1b79834fbc365528325f4ee5b081a384c699dcc767e33d1f6&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/orbis-aparthotel-berlin-kreuzberg.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=57&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Grand Hostel Berlin Classic",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d-\u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u0445\u043e\u0441\u0442\u0435\u043b \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u044d\u043b\u0435\u0433\u0430\u043d\u0442\u043d\u043e\u0435 \u0437\u0434\u0430\u043d\u0438\u0435 XIX \u0432\u0435\u043a\u0430 \u0432 \u044f\u0440\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0440\u044f\u0434\u043e\u043c \u0441 \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430\u043c\u0438 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/422637492.webp?k=83f689a29f5ea3428e58871f82e698711e60279253a9b40749fb001ee984bcc6&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/grand-hostel-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=58&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "aletto Hotel Potsdamer Platz",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d-\u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u043e\u0442\u0435\u043b\u044c, \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0432 \u043c\u0430\u0435 2020 \u0433\u043e\u0434\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432 15 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u041f\u043e\u0442\u0441\u0434\u0430\u043c\u0441\u043a\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u0438. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0441\u0442\u0438\u043b\u044c\u043d\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi. \u041d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0440\u0430\u0437\u0431\u0438\u0442 \u0441\u0430\u0434.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/488732460.webp?k=283e20fab70d709b3e5a195b545f42c3bfc6f94436c177b50a90479274bb0b50&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/aletto-potsdamer-platz.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=59&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "NH Berlin Alexanderplatz",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d-\u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "4,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "This 4-star hotel is located opposite the Volkspark Friedrichshain park in Berlin, a 9-minute tram ride from Alexanderplatz Square.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/531967316.webp?k=44368cbcca3b05c884e771bd130f0cb7ee7d646cf293da1ebd67d543cf3f7476&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/nhberlinalexanderplatz.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=60&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Garner Hotel Berlin - Charlottenburg, an IHG Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,9",
+    "address": "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433-\u0412\u0438\u043b\u044c\u043c\u0435\u0440\u0441\u0434\u043e\u0440\u0444, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "3,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "This hotel offers rooms with free WiFi, just 200 metres from the River Spree. Guests can enjoy cocktails, beers and wines in the lounge/bar or relax in the sauna.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/649975610.webp?k=b716c98832a9cf21d876c03972a34aa6d91c8538bf5362eb9b28c74f5333b73e&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/garnerhotelberlin-charlottenburg.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=61&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Hotel Tiergarten Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,2",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432\u043e\u0437\u043b\u0435 \u043f\u0430\u0440\u043a\u0430 \u041a\u043b\u044f\u0439\u043d\u0435\u0440 \u0422\u0438\u0440\u0433\u0430\u0440\u0442\u0435\u043d, \u0440\u044f\u0434\u043e\u043c \u0441\u043e \u0441\u0442\u0430\u043d\u0446\u0438\u0435\u0439 \u043c\u0435\u0442\u0440\u043e Turmstra\u00dfe, \u043e\u0442\u043a\u0443\u0434\u0430 \u043c\u043e\u0436\u043d\u043e \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0434\u043e \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0433\u043e \u0431\u0443\u043b\u044c\u0432\u0430\u0440\u0430 \u041a\u0443\u0440\u0444\u044e\u0440\u0441\u0442\u0435\u043d\u0434\u0430\u043c\u043c, \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0433\u043e \u043c\u0435\u0441\u0442\u0430 \u0434\u043b\u044f \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044f \u043f\u043e\u043a\u0443\u043f\u043e\u043a, \u0438...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/174124187.webp?k=76ebd8ef6f79ed3b104407dc736e16137c2270ee21a9d830f47eedc74d4c0312&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/tiergarten.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=62&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Hotel Aster an der Messe",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,0",
+    "address": "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433-\u0412\u0438\u043b\u044c\u043c\u0435\u0440\u0441\u0434\u043e\u0440\u0444, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "7,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0427\u0430\u0441\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0440\u0430\u0439\u043e\u043d\u0430 \u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433 \u0432 \u0411\u0435\u0440\u043b\u0438\u043d\u0435, \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0448\u0430\u0433\u0430\u0445 \u043e\u0442 \u043a\u043e\u043d\u0433\u0440\u0435\u0441\u0441-\u0446\u0435\u043d\u0442\u0440\u0430 ICC \u0438 \u0432\u044b\u0441\u0442\u0430\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/184838856.webp?k=7dc5d68e40135715742d81e74ab73a741c81ec428d4e835f935eafe7b3dd8153&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/aster-an-der-messe.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=63&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "SMARTments business Berlin Prenzlauer Berg",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041f\u0430\u043d\u043a\u043e\u0432, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "5,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "SMARTments business BERLIN Prenzlauer Berg offers accommodation in Berlin, 3 km from Alexanderplatz and 3.3 km from Berlin TV Tower. The Museum Island is within 3.9 km of the apartment.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/355215758.webp?k=ac7b89f50a88b1c3b437c856cdc69f51c4591df42a38caf571309bcaad1b3547&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/smartments-business-berlin-prenzlauer-berg.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=64&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Riu Plaza Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0422\u0435\u043c\u043f\u0435\u043b\u044c\u0445\u043e\u0444-\u0428\u0451\u043d\u0435\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "2,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Riu Plaza Berlin \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0435\u0440\u043b\u0438\u043d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u044b, \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440, \u0442\u0435\u0440\u0440\u0430\u0441\u0430 \u0438 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/331395602.webp?k=181ba75158399af0ed6ef8a434aba22b16b593e971b42cfa567ea2fa5acc5e1b&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/riu-plaza-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=65&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "H+ Hotel Berlin Mitte",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Just 300 metres from Friedrichstrasse Shopping Street, this hotel is centrally located in Berlin. Guests enjoy air-conditioned rooms.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/306642591.webp?k=4637c38206f5b23cc0a20ead7f938fa5d6c1a0cca62f69abb745234ae9f6e4b2&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/h-hotel-berlin-mitte.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=66&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Victor's Residenz-Hotel Berlin Mitte",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u041f\u0430\u043d\u043a\u043e\u0432, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "3,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Enjoying a quiet location between the popular Berlin districts of Mitte, Prenzlauer Berg and Friedrichshain, this stylish 4-star hotel offers elegant accommodation, only 2 tram stops from...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/237441661.webp?k=3a6177dcf784de695e6cd99ea4d05a09b6dd97c3c3ab931938fc7ae85dc623b6&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/victor-s-residenz-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=67&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Holiday Inn Express Berlin City Centre by IHG",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0441\u0445\u0430\u0439\u043d-\u041a\u0440\u043e\u0439\u0446\u0431\u0435\u0440\u0433, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0412 \u044d\u0442\u043e\u043c \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u043e\u043c \u043e\u0442\u0435\u043b\u0435 \u0433\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u044e\u0442\u0441\u044f \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u043c. \u041f\u043e\u0431\u043b\u0438\u0437\u043e\u0441\u0442\u0438 \u043d\u0430\u043b\u0430\u0436\u0435\u043d\u043e \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u0435 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0441\u043e \u0432\u0441\u0435\u043c\u0438 \u0440\u0430\u0439\u043e\u043d\u0430\u043c\u0438 \u0411\u0435\u0440\u043b\u0438\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/438793434.webp?k=e6f8cdc3e06a76ad478f59acefe53dfee368ac31fe84b78b0983cd85f1ba5e0c&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/expressbyholidayinnberlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=68&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Hilton Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,9",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u043d\u0430 \u0441\u0442\u0430\u0440\u0438\u043d\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u0416\u0430\u043d\u0434\u0430\u0440\u043c\u0435\u043d\u043c\u0430\u0440\u043a\u0442. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043d\u043e\u043c\u0435\u0440\u0430, \u044d\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0439 \u0441\u043f\u0430-\u0446\u0435\u043d\u0442\u0440 \u0438 2 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0430 \u0441 \u043f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u043c \u0432\u0438\u0434\u043e\u043c \u043d\u0430 \u041d\u0435\u043c\u0435\u0446\u043a\u0438\u0439 \u0441\u043e\u0431\u043e\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/484084610.webp?k=175a1c03cca5db00a6f214970dbfe544a8641afcdc01037ed318f217bfd1a042&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/hilton-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=69&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Motel One Berlin-Spittelmarkt",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u0434\u0438\u0437\u0430\u0439\u043d-\u043e\u0442\u0435\u043b\u044c \u0434\u043b\u044f \u043d\u0435\u043a\u0443\u0440\u044f\u0449\u0438\u0445 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u041c\u0438\u0442\u0442\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0435\u0440\u043b\u0438\u043d, \u0432\u0441\u0435\u0433\u043e \u0432 150 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Spittelmarkt.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/482030440.webp?k=1aaa68ed04def3426713f54e1caf7068ba6e68e52eae2115a1b75c317ae451ad&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/motel-one-berlin-spittelmarkt.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=70&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Hotel Bleibtreu Berlin by Golden Tulip",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,0",
+    "address": "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433-\u0412\u0438\u043b\u044c\u043c\u0435\u0440\u0441\u0434\u043e\u0440\u0444, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "4,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0427\u0435\u0442\u044b\u0440\u0435\u0445\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u0434\u0438\u0437\u0430\u0439\u043d-\u043e\u0442\u0435\u043b\u044c Bleibtreu Berlin by Golden Tulip \u0441 \u043e\u0437\u0434\u043e\u0440\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0446\u0435\u043d\u0442\u0440\u043e\u043c \u0438 \u043d\u043e\u043c\u0435\u0440\u0430\u043c\u0438 \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c \u043c\u0438\u043d\u0438-\u0431\u0430\u0440\u043e\u043c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432\u0441\u0435\u0433\u043e \u0432 200 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0439 \u0431\u0435\u0440\u043b\u0438\u043d\u0441\u043a\u043e\u0439 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0439 \u0443\u043b\u0438\u0446\u044b...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/76070177.webp?k=1b98b3c591e3eef411d46af9caca6727478ac22533dd307dbc220ef0587b58b8&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/bleibtreuberlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=71&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "BlnCty Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,3",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "0,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c BlnCty \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0411\u0440\u0430\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0438\u0445 \u0432\u043e\u0440\u043e\u0442, \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u043e-\u043f\u0440\u043e\u043f\u0443\u0441\u043a\u043d\u043e\u0433\u043e \u043f\u0443\u043d\u043a\u0442\u0430 \u0427\u0435\u043a\u043f\u043e\u0439\u043d\u0442 \u0427\u0430\u0440\u043b\u0438 \u0438 \u041f\u043e\u0442\u0441\u0434\u0430\u043c\u0441\u043a\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/87079406.webp?k=ca46686346bb17d49041f5d0792c06261e60c212ae78e0413aae803a59c3cab2&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/intermezzofrauen.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=72&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "Leonardo Hotel Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433-\u0412\u0438\u043b\u044c\u043c\u0435\u0440\u0441\u0434\u043e\u0440\u0444, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "4,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0422\u0440\u0435\u0445\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0431\u0435\u0440\u043b\u0438\u043d\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433, \u043c\u0435\u0436\u0434\u0443 \u0432\u044b\u0441\u0442\u0430\u0432\u043e\u0447\u043d\u044b\u043c \u0446\u0435\u043d\u0442\u0440\u043e\u043c \u0411\u0435\u0440\u043b\u0438\u043d\u0430 \u0438 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0439 \u0443\u043b\u0438\u0446\u0435\u0439 \u041a\u0443\u0440\u0444\u044e\u0440\u0441\u0442\u0435\u043d\u0434\u0430\u043c\u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/402308819.webp?k=48824302a56c56f80c6eb57e6181d8134b0119afc020f4f2ae92e3e428d5fcba&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/leonardo-hotel-berlin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=73&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Arte Luise Kunsthotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,7",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "0,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Offering stylish rooms designed by renowned artists, this unique hotel in the heart of Berlin is just a 10-minute walk from the Brandenburg Gate right next to the busy railway viaduct between...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/28252501.webp?k=ce48aec4f358f84b04402a08c26f62ed19a28ab9f2bd2542543e0b80847c008b&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/luise-und-kunstlerheim.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=74&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  },
+  {
+    "name": "martas G\u00e4steh\u00e4user Hauptbahnhof Berlin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u041c\u0438\u0442\u0442\u0435, \u0411\u0435\u0440\u043b\u0438\u043d",
+    "distance": "1,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u043c\u043e\u043b\u043e\u0434\u0435\u0436\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0435\u043b \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0435\u0440\u043b\u0438\u043d\u0430, \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430. \u0421\u0442\u043e\u0439\u043a\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0445\u043e\u0441\u0442\u0435\u043b\u0430 martas G\u00e4steh\u00e4user Hauptbahnhof Berlin \u043e\u0442\u043a\u0440\u044b\u0442\u0430...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/472788026.webp?k=43a96b106a8846af14396c933c9c65919021822d5f37c01cacc7821da69e4067&o=",
+    "hotel_url": "https://www.booking.com/hotel/de/jugendgastehaus-hauptbahnhof.ru.html?aid=304142&label=gen173nr-1FCAQoggJCE3NlYXJjaF_QsdC10YDQu9C40L1IIVgEaMIBiAEBmAEhuAEXyAEM2AEB6AEB-AEDiAIBqAIDuALqy9PBBsACAdICJGIxNWU4OGJkLTZlMGMtNDgyMC04NTNkLWI3ZDIyODljYWRlYtgCBeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=75&sr_order=popularity&srpvid=54b49b7577d20559&srepoch=1748297204&from=searchresults"
+  }
+]

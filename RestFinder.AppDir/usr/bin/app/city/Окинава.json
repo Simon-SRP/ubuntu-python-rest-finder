@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Comfort Inn Naha Tomari Port",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Comfort Inn Naha Tomari Port \u2014 \u044d\u0442\u043e \u043c\u0438\u043d\u0438-\u0433\u043e\u0441\u0442\u0438\u043d\u0438\u0446\u0430 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430, \u0432 1,5 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/565130387.webp?k=6ba2a1ca28a0ac378a13582435bc6c2949d146641b4fa7effc19adf5b878a002&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/comfort-inn-naha-tomari-port.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "BbyC Hotel \u90a3\u8987 \u30ec\u30f3\u30bf\u30ab\u30fc\u4ed8\u30db\u30c6\u30eb",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "BbyC Hotel \u90a3\u8987 \u30ec\u30f3\u30bf\u30ab\u30fc\u4ed8\u30db\u30c6\u30eb \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 1,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430 \u0438 1,2 \u043a\u043c \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438: \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/675314439.webp?k=ce9385b4cdb40696d8643282d3d7f22017f7761e44aa9c5ad0d5720a82f4a3ac&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/bc-hotelna-ba-rentakafu-hoteru.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Weekly Harbourview Mansion Main Building",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Weekly Harbourview Mansion \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432\u0441\u0435\u0433\u043e \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0435\u0437\u0434\u044b \u043e\u0442 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0430 \u041d\u0430\u0445\u0430. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043f\u0440\u043e\u0441\u0442\u043e\u0440\u043d\u044b\u0435 \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0441 \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043a\u0443\u0445\u043d\u0435\u0439, \u0431\u0430\u043b\u043a\u043e\u043d\u043e\u043c \u0438 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0432\u0430\u043d\u043d\u043e\u0439 \u043a\u043e\u043c\u043d\u0430\u0442\u043e\u0439....",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/650714772.webp?k=f63ddfeda0f5921fe39379c0c4c97e57cc6a6a1a7d407aa3c1fbec42ca4418b1&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/weekly-harbourview-mansion.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Prince Smart Inn Naha",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Prince Smart Inn Naha \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041d\u0430\u0445\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 1,3 \u043a\u043c \u0438 4 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d \u0438 \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0422\u0430\u043c\u0430\u0443\u0434\u0443\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/434103761.webp?k=2c8149ee34101c630a62872517c9820744d9cd51e29d7ac14901f4b65343db05&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/prince-smart-inn-naha.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Libre Garden Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "A 15-minute walk from the vibrant Kokusai Dori Street, Libre Garden features a garden, an Italian restaurant and free Wi-Fi throughout the property. It offers contemporary rooms with a classical...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/413733817.webp?k=05bce217ed1039511b3ba32d093b23e4642fcd74e25a39ac9b0a200f68837ead&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/libre-garden.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Hotel Roco Inn Okinawa",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,0",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Located at the heart of Naha, Hotel Roco Inn Okinawa provides simple guest rooms featuring a flat-screen TV, a small fridge and free WiFi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/45389965.webp?k=a8e5c6baaf283301cda0ca35eb94a3d9c9993cb4e719efaf70a12c24c761894e&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/roco-inn-okinawa.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Hotel Cocktail Stay Naha",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Hotel Cocktail Stay Naha \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041d\u0430\u0445\u0430, \u0432 700 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0430\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/289681042.webp?k=daed012549228f721db51adc5fa071d2211d757b2b31146f975261a641754320&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/hotel-wbf-matsuyama.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "hotel androoms Naha Port",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Hotel androoms Naha Port \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041d\u0430\u0445\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 1,1 \u043a\u043c \u0438 5,8 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d \u0438 \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0422\u0430\u043c\u0430\u0443\u0434\u0443\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/374645260.webp?k=1d21dd1c393464fbefe2520bb89fb14789efc9ca9cbc57268b7938942ee5ed03&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/androoms-naha-port.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Toyoko Inn Okinawa Naha Asahibashi Ekimae",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Toyoko Inn Okinawa Naha Asahibashi Ekimae \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430. \u0412\u0441\u0435\u043c \u0433\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi. \u041f\u043e \u0443\u0442\u0440\u0430\u043c \u0441\u0435\u0440\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0437\u0430\u0432\u0442\u0440\u0430\u043a \u00ab\u0448\u0432\u0435\u0434\u0441\u043a\u0438\u0439 \u0441\u0442\u043e\u043b\u00bb.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/545477988.webp?k=1480a2bd7736d8ff0827dcca3731e497c5e8ac8d5f2292878e2a93050616793f&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/toyoko-inn-okinawa-naha-asahibashi-ekimae.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Hotel Gracery Naha",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "Kokusai Dori, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Located on the bustling Kokusai Dori Street, Hotel Gracery Naha offers air-conditioned rooms with an en suite bathroom and free WiFi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/541304938.webp?k=aba5480aeb51756ff23e5935e0097c9e59327e9ccdcb05139d5b7f54e406184a&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/gracery-naha.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Grand Cabin Hotel Naha Oroku",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Grand Cabin Hotel Naha Oroku \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 2,3 \u043a\u043c \u0438 7,6 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u0421\u044d\u043d\u0430\u0433\u0430-\u041a\u0430\u0438\u0442\u044e-\u0420\u043e\u0443\u0434 \u0438 \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0422\u0430\u043c\u0430\u0443\u0434\u0443\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/470307716.webp?k=f9630c76e40cbb19360a608d90b8d391cc33fc1322ba8e08e13dda8018a2ad97&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/gurandokiyabinhoteruna-ba-xiao-lu.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Hotel GrandConsort Naha",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,0",
+    "address": "Kokusai Dori, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Hotel GrandConsort Naha \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041d\u0430\u0445\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 1,5 \u043a\u043c \u0438 4,2 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d \u0438 \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0422\u0430\u043c\u0430\u0443\u0434\u0443\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/402002844.webp?k=7d30bbb160157e00f146325d457a1e7d5338b168479a7c976f27eabb043aeec8&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/hoterugurankonsorutona-ba.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "PROSTYLE TERRACE NAHA",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "PROSTYLE TERRACE NAHA \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430, \u0432 1 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u043e\u0431\u0449\u0438\u0439 \u043b\u0430\u0443\u043d\u0434\u0436, \u0442\u0435\u0440\u0440\u0430\u0441\u0430, \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0438 \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/293842298.webp?k=244ef821c83459a219f19044de5bf00f3ec385ff6d8f1456ff0df047eaf67848&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/prostyle-terrace-naha.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "PROSTYLE RYOKAN Naha Kenchou Mae",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "PROSTYLE RYOKAN Naha Kenchou Mae \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430, \u0432 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u043e\u0431\u0449\u0438\u0439 \u043b\u0430\u0443\u043d\u0434\u0436, \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d, \u0431\u0430\u0440 \u0438 \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/325647659.webp?k=1e1caeb1758d95a2159be4baadddcb006572f071857441cc2e6c0cd2b2897b8d&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/purosutairulu-guan-na-ba-xian-ting-qian.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Karry CONDO CHURAUMI",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u043e\u0442\u043e\u0431\u0443",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Karry CONDO CHURAUMI \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u043e\u0442\u043e\u0431\u0443, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 1,9 \u043a\u043c \u0438 6,2 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u0423\u0444\u0443\u0442\u0430\u0431\u0430\u0440\u0443 \u0438 \u0417\u0430\u043c\u043e\u043a \u041d\u0430\u043a\u0438\u0434\u0437\u0438\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/592288395.webp?k=063fbd6038d2af7b98d6d341d99b69dda286173faacfa72a6a41325f016fed9e&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/karikondominiamurizotomei-rahai.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Secret Villas by Relapool",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "Ohama",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Secret Villas by Relapool \u2014 \u044d\u0442\u043e \u0432\u0438\u043b\u043b\u0430 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 Ohama. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u0431\u0430\u0441\u0441\u0435\u0439\u043d. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u0435\u0441\u0442\u044c \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0441\u0430\u0434 \u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430. \u0422\u0430\u043a\u0436\u0435 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/579962234.webp?k=4dfa47a8e7aebb07433b58aa01448276af7653c1ed6b75d43a4727eecfaa9a6e&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/secret-villas-by-relapool.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Katsuren Seatopia \u52dd\u9023\u30b7\u30fc\u30c8\u30d4\u30a2",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,5",
+    "address": "\u0423\u0440\u0443\u043c\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Katsuren Seatopia \u52dd\u9023\u30b7\u30fc\u30c8\u30d4\u30a2 \u2014 \u044d\u0442\u043e \u0434\u043e\u043c \u0434\u043b\u044f \u043e\u0442\u043f\u0443\u0441\u043a\u0430 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0423\u0440\u0443\u043c\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 1,8 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0417\u0430\u043c\u043e\u043a \u041a\u0430\u0446\u0443\u0440\u0435\u043d. \u0412 \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0433\u043e\u0441\u0442\u0435\u0439 \u0441\u0430\u0434, \u0442\u0435\u0440\u0440\u0430\u0441\u0430 \u0438 \u043a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u0430\u044f \u0441\u0442\u043e\u0439\u043a\u0430...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/339147421.webp?k=86310d320b96cbd46903b3aa8f12249492f54b11e5c5b897014ac36bbfb4d73b&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/gesutohausu-katsuren-seatopia.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Odysis Onna Resort Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,0",
+    "address": "\u041e\u043d\u043d\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Odysis Onna Resort Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041e\u043d\u043d\u0430, \u0432 30 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041a\u0430\u0440\u0438\u044e\u0441\u0438. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u0441\u0435\u0437\u043e\u043d\u043d\u044b\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0441\u0430\u0434, \u0442\u0435\u0440\u0440\u0430\u0441\u0430 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/265085917.webp?k=c387d4ae8df8fccecfa023adfaca754f7b143a5cab926377198e2363757fa29c&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/odeisisuen-na-rizotohoteru.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Weekly Harbourview Mansion Ginowan",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u0413\u0438\u043d\u043e\u0432\u0430\u043d",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Weekly Harbourview Mansion Ginowan \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0413\u0438\u043d\u043e\u0432\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u0432 9,1 \u043a\u043c \u0438 9,1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0417\u0430\u043c\u043e\u043a \u041d\u0430\u043a\u0430\u0433\u0443\u0441\u0443\u043a\u0443 \u0438 \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0422\u0430\u043c\u0430\u0443\u0434\u0443\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/130960351.webp?k=a27eec9504d1fb220f5f85adf334203e65c32d8454d847e1a4a797f47755006c&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/weekly-harbourview-mansion-ginowan.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "MB GALLERY CHATAN by THE TERRACE HOTELS",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u0422\u044f\u0442\u0430\u043d",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "MB GALLERY CHATAN by THE TERRACE HOTELS \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0422\u044f\u0442\u0430\u043d, \u0432 400 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u0421\u0430\u043d\u0441\u0435\u0442-\u0411\u0438\u0447.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/377906000.webp?k=51518c04b0b5092fa135f13d051a5ddf2bd718d90bccb1cc689e6321ae18bbde&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/mb-gallery-chatan-by-the-terrace-hotels.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Kaiza",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,5",
+    "address": "\u041d\u0430\u043d\u0434\u0437\u0451",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Kaiza \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0442\u0438\u043f\u0430 \u00ab\u043f\u043e\u0441\u0442\u0435\u043b\u044c \u0438 \u0437\u0430\u0432\u0442\u0440\u0430\u043a\u00bb \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u043d\u0434\u0437\u0451, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 1,3 \u043a\u043c \u0438 7,9 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041c\u0438\u0431\u0430\u0440\u0443 \u0438 \u0421\u044d\u0444\u0430-\u0423\u0442\u0430\u043a\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/179972075.webp?k=c6f3dccb23142de1a697fe62445fdc5df33ad19bb23943f3fe3abecfb2d7a715&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/hai-zuo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Hotel Lantana Naha Kokusai-Dori",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Kokusai Dori, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Hotel Lantana Naha Kokusai-Dori \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430. \u0412\u0441\u0435\u043c \u0433\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u043d\u0430 \u0432\u0441\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438. \u041f\u043e \u0443\u0442\u0440\u0430\u043c \u0441\u0435\u0440\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0437\u0430\u0432\u0442\u0440\u0430\u043a \u00ab\u0448\u0432\u0435\u0434\u0441\u043a\u0438\u0439 \u0441\u0442\u043e\u043b\u00bb.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/220230408.webp?k=2ee88b7fcadd09de18b1c80b211f2a6f177279bc619c07350a9efa3a8b15240b&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/hoterurantanana-ba-guo-ji-tong-ri.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Hewitt Resort Naha",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Hewitt Resort Naha \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041d\u0430\u0445\u0430, \u0432 2,9 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0430\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/310304646.webp?k=c14a24e9dd400cb52f60199f7481374abd111cb0f18f8d61d40b230bcf0e6558&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/hiyuitutorizotona-ba-guo-ji-tong-ri.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Family Condo Chatan Hills by Coldio Premium",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u0422\u044f\u0442\u0430\u043d",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Family Condo Chatan Hills by Coldio Premium \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0422\u044f\u0442\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 2,1 \u043a\u043c \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438: \u041f\u043b\u044f\u0436 \u0421\u0443\u043d\u0430\u0431\u044d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/499584731.webp?k=c09c5d90c0fde52f6c2030f6abd5cff9118ff7d34c410881b122560febe7f916&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/bei-gu-hiruzu.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "The Busena Terrace",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,0",
+    "address": "\u041d\u0430\u0433\u043e",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Situated on the Cape Busena in Nago, The Busena Terrace boasts a private beach area, a year-round indoor swimming pool, 2 seasonal outdoor swimming pools and water sports facilities.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/66956418.webp?k=415667324d1d0c02c5c8d8ae69b163625d405ded9cad296538849801257e72e9&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/the-busena-terrace.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "La Casa Panacea Okinawa Resort",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041e\u043d\u043d\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "La Casa Panacea Okinawa Resort \u2014 \u044d\u0442\u043e \u043a\u0443\u0440\u043e\u0440\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041e\u043d\u043d\u0430, \u0432 80 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u0425\u0430\u043c\u0430\u0431\u0430\u0440\u0443.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/594948694.webp?k=498d3f6a83572fc4b9b52013ad2b3db90f77e06dd8529abf9c586bdecc130c09&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/la-casa-panacea-okinawa-resort.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "New Normal Hotel in NAGO \u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\u30db\u30c6\u30eb\u30a4\u30f3\u540d\u8b77",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u041d\u0430\u0433\u043e",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "New Normal Hotel in NAGO \u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\u30db\u30c6\u30eb\u30a4\u30f3\u540d\u8b77 \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0433\u043e, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 2,2 \u043a\u043c \u0438 21 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u041f\u043b\u044f\u0436 \u043f\u0430\u0440\u043a\u0430 \u00ab\u041b\u0435\u0441 XXI \u0432\u0435\u043a\u0430\u00bb \u0438...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/438249701.webp?k=d4edbeeaa5f8ee1277a9e8e144746cd532f3a846736032efa9e98bacaccb21e1&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/te-39-s.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Hoshi No Terrace Motobu Yamazato",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041c\u043e\u0442\u043e\u0431\u0443",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Hoshi No Terrace Motobu Yamazato \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u043e\u0442\u043e\u0431\u0443, \u0432 2 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u0422\u043e\u0433\u0443\u0442\u0438. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u0441\u0430\u0434, \u043e\u0431\u0449\u0438\u0439 \u043b\u0430\u0443\u043d\u0434\u0436, \u0442\u0435\u0440\u0440\u0430\u0441\u0430 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/543382970.webp?k=94055a90e1dd388c5857b1d8338d5e17dd617b4216d1f4bc14c55df90de00ecd&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/hoshino-terrace-yamazato.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Condominium Hotel Monpa",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u0422\u044f\u0442\u0430\u043d",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u0423\u044e\u0442\u043d\u044b\u0435 \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b Beachside Condominium Monpa \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 \u043e\u0434\u043d\u043e\u043c \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u0440\u0430\u0439\u043e\u043d\u043e\u0432 \u041e\u043a\u0438\u043d\u0430\u0432\u044b.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/162629847.webp?k=435f11ecb0d9e84d0d5123b478365b0ecd51d644f752b3c22b09a9f9ce71fe2f&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/beachside-condominium-monpa.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Hotel Rocore Naha",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "Kokusai Dori, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Hotel Rocore Naha is situated right on the Kokusai Street, one of the popular tourist attractions in Naha.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/349397328.webp?k=f367344057ef20d0ccd02cd6c29015941c830dde636498dcb61ad89019e81509&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/rocore-naha.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "LiVEMAX Amms Canna Resort Villa",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "Ginoza",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u041a\u0443\u0440\u043e\u0440\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c Livemax Amms Canna Villa \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432\u0441\u0435\u0433\u043e \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u043f\u043b\u044f\u0436\u0430. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e \u0441\u0442\u043e\u044f\u0449\u0438\u0435 \u043a\u043e\u0442\u0442\u0435\u0434\u0436\u0438, \u0441\u0435\u0437\u043e\u043d\u043d\u044b\u0439 \u043f\u0435\u0439\u0437\u0430\u0436\u043d\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d \u0438 2 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/675928339.webp?k=d685d88fb57253c7e60b26b8b35ae17c1426c6d0d29f1c371b9ee52e8533d2d7&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/ribumatukusuamusukannarizotovuira.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Comfort Villa",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041c\u043e\u0442\u043e\u0431\u0443",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Comfort Villa \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u043e\u0442\u043e\u0431\u0443. \u0417\u0434\u0435\u0441\u044c \u0435\u0441\u0442\u044c \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u044b \u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u0433\u043e\u0440\u044b. \u0413\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/205939443.webp?k=59841775dbb3a9219a619632c2250ff3202de01dd0d4bff1ca294685276ee4a5&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/comfortvilla.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Best Western Okinawa Onna Beach",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041e\u043d\u043d\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Best Western Okinawa Onna Beach \u0441 \u0432\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u044b\u043c \u0432\u0438\u0434\u043e\u043c \u043d\u0430 \u043e\u043a\u0435\u0430\u043d \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432\u0441\u0435\u0433\u043e \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u043f\u043b\u044f\u0436\u0430 \u042d\u043c\u0435\u0440\u0430\u043b\u044c\u0434.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/405582860.webp?k=79f647dd331392218942d17451c60df9a1fba010476e223191a6773339e1c638&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/best-western-onna-beach.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Luana Lea Karate Kaikan Mae",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "Tomigusuku",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Luana Lea Karate Kaikan Mae \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 Tomigusuku, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 7 \u043a\u043c \u0438 20 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0422\u0430\u043c\u0430\u0443\u0434\u0443\u043d \u0438 \u0421\u044d\u0444\u0430-\u0423\u0442\u0430\u043a\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/246628102.webp?k=0f7018f5ff1feeb744022c952a3879082767c4268f256595495be11abf1324e7&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/luana-lea.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Best Western Okinawa Kouki Beach",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "\u041d\u0430\u0433\u043e",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Best Western Okinawa Kouki Beach \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0440\u044f\u0434\u043e\u043c \u0441 \u043f\u043b\u044f\u0436\u0435\u043c. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u0432\u0438\u0434\u043e\u043c \u043d\u0430 \u043e\u043a\u0435\u0430\u043d \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/674377178.webp?k=46c9266eebe53d641aa32348295064f221393e1ebf7f0839709cf65f53273833&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/best-western-kouki-beach.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Southern Beach Hotel & Resort",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0418\u0442\u043e\u043c\u0430\u043d",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u041a\u0443\u0440\u043e\u0440\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c Southern Beach \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u043f\u043b\u044f\u0436\u0435 \u0440\u044f\u0434\u043e\u043c \u0441 \u043f\u043e\u0440\u0442\u043e\u043c \u0418\u0442\u043e\u043c\u0430\u043d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 2 \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u0430 \u0438 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0441 \u0432\u0438\u0434\u043e\u043c \u043d\u0430 \u043e\u043a\u0435\u0430\u043d, \u0433\u0434\u0435 \u0431\u043b\u044e\u0434\u0430 \u0441\u0435\u0440\u0432\u0438\u0440\u0443\u044e\u0442\u0441\u044f \u0432 \u0432\u0438\u0434\u0435 \u00ab\u0448\u0432\u0435\u0434\u0441\u043a\u043e\u0433\u043e \u0441\u0442\u043e\u043b\u0430\u00bb.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/466531552.webp?k=f6fcf4c86e7d8aed87d47ebecf5eb7d0191fd7a3fefae77924b718bd04cb4903&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/southern-beach.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "\u8cb8\u5225\u8358TANoSHI-SA-",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "Jahana",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u8cb8\u5225\u8358TANoSHI-SA- \u2014 \u044d\u0442\u043e \u0434\u043e\u043c \u0434\u043b\u044f \u043e\u0442\u043f\u0443\u0441\u043a\u0430 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 Jahana. \u0417\u0434\u0435\u0441\u044c \u0435\u0441\u0442\u044c \u0441\u0430\u0434 \u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u0441\u0430\u0434.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/605604647.webp?k=e6d47172b3ae19395844dead2567a2e099e89dd97bc12600c80a16898bec2aca&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/hai-gajian-nagarabbqdekirusu-karaoke-mei-rahai-shui-zu-guan-che-de5fen-zui-da-12.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Condominium GOLF GOLF Tsuboya",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "\u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Condominium GOLF GOLF Tsuboya \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430. \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0422\u0430\u043c\u0430\u0443\u0434\u0443\u043d \u0438 \u0421\u044d\u0444\u0430-\u0423\u0442\u0430\u043a\u0438 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 2,9 \u043a\u043c \u0438 19 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e. \u0417\u0430\u043c\u043e\u043a \u041d\u0430\u043a\u0430\u0433\u0443\u0441\u0443\u043a\u0443 \u2014 \u0432 19 \u043a\u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/208827667.webp?k=e7cbe7b15f5f2df0b77fa38919e4777d0352985052894b8ac86efac1327d0eba&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/howaitoterasuhu-wu-gesutohausuinchong-nawa.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Hotel Lantana Naha Matsuyama",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,7",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Hotel Lantana Naha Matsuyama \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430. \u0412\u0441\u0435\u043c \u0433\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u043d\u0430 \u0432\u0441\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438. \u041f\u043e \u0443\u0442\u0440\u0430\u043c \u0441\u0435\u0440\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0437\u0430\u0432\u0442\u0440\u0430\u043a \u00ab\u0448\u0432\u0435\u0434\u0441\u043a\u0438\u0439 \u0441\u0442\u043e\u043b\u00bb.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/227214016.webp?k=efe00f20cd6d76308df23950bb75bb147918591a996dd1dfe05f3810d4bf1924&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/hotel-lantana-naha-matsuyama.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Villa VALIOSA ON THE BEACH",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,5",
+    "address": "\u041e\u043d\u043d\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Villa VALIOSA ON THE BEACH \u2014 \u044d\u0442\u043e \u0432\u0438\u043b\u043b\u0430 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041e\u043d\u043d\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u0430\u044f \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 10 \u043c \u0438 2 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u041f\u043b\u044f\u0436 \u042f\u043a\u0430\u0442\u0430\u043a\u0430\u0442\u0430\u0431\u0430\u0440\u0443 \u0438 Onna-son Community Center.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/587453024.webp?k=d76bc1cae4c21435bb7c264a2226439ac8820cfc0e36737a1fae17d14a27c5b4&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/villa-valiosa-on-the-beach-vuira-vuariosa-onzabiti.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Maribu Beach House",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "Yamada",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Maribu Beach House \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 Yamada. \u041f\u043b\u044f\u0436 \u041c\u0430\u043b\u0438\u0431\u0443 \u0438 \u041c\u044b\u0441 \u041c\u0430\u044d\u0434\u0430 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 500 \u043c \u0438 2,5 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u0442\u0435\u0440\u0440\u0430\u0441\u0430. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u043c\u043e\u0440\u0435.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/287168042.webp?k=4b91e13795c0b4f1c9784d44c9ad7fec6fb1d93d100791555ff9234cacf53e27&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/maribu-beach-house.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Hotel Little Island Okinawa Matsuyama",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Hotel Little Island Okinawa Matsuyama \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041d\u0430\u0445\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 500 \u043c \u0438 4,8 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d \u0438 \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0422\u0430\u043c\u0430\u0443\u0434\u0443\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/248255283.webp?k=77f53007dfdefb910f6ce928e45e6716444ff4bc6a40e21838ecc12a949ddc3a&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/hoteru-ritoruairandochong-nawa-song-shan.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Kafuu Resort Fuchaku Condo Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,0",
+    "address": "\u041e\u043d\u043d\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u0413\u043e\u0441\u0442\u0438 \u043a\u0443\u0440\u043e\u0440\u0442\u043d\u043e\u0433\u043e \u043e\u0442\u0435\u043b\u044f Kafuu Fuchaku Condo \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u043e\u043c, \u043a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u044b\u043c \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440\u043e\u043c, 3 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0430\u043c\u0438, \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi, \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u043e\u0439, \u0443\u0441\u043b\u0443\u0433\u0430\u043c\u0438 \u043a\u043e\u043d\u0441\u044c\u0435\u0440\u0436\u0430 \u0438 \u0443\u0441\u043b\u0443\u0433\u0430\u043c\u0438...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/21439152.webp?k=47b2f2cb3951156177d2def7c10fecf1c998ef4f4a1c4ca6376ea2a08f807f68&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/kafuu-resort-fuchaku-condo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Hotel Living Inn Kenchoumaeeki",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "Kokusai Dori, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Hotel Living Inn Kenchoumaeeki \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0441 3 \u0437\u0432\u0435\u0437\u0434\u0430\u043c\u0438 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430. \u0412 \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0433\u043e\u0441\u0442\u0435\u0439 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0431\u0430\u043b\u043a\u043e\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/650752732.webp?k=c71e7d71e28685421939e809e0f5b329f2d9c0a7e75be2874f254ff896e98c2d&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/hoteruribinguinxian-ting-yi-qian.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Guesthome Machiya Koza",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Guesthome Machiya Koza \u2014 \u044d\u0442\u043e \u0433\u043e\u0441\u0442\u0435\u0432\u043e\u0439 \u0434\u043e\u043c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041e\u043a\u0438\u043d\u0430\u0432\u0430, \u0432 8,2 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0417\u0430\u043c\u043e\u043a \u041d\u0430\u043a\u0430\u0433\u0443\u0441\u0443\u043a\u0443. \u0412 \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0433\u043e\u0441\u0442\u0435\u0439 \u043d\u043e\u043c\u0435\u0440\u0430 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0442\u0435\u0440\u0440\u0430\u0441\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/214734409.webp?k=749753c68bfc98b399e7a4fb0cc521b30b9e52da317c66b2491c3cac54e72ad2&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/machiya-koza-ting-jia-koza.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "#Nerome01 Traditional Okinawan House in YAMBARU, bc",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u014cgimi",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "#Nerome01 Traditional Okinawan House in YAMBARU, bc \u2014 \u044d\u0442\u043e \u0434\u043e\u043c \u0434\u043b\u044f \u043e\u0442\u043f\u0443\u0441\u043a\u0430 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u014cgimi, \u0432\u0441\u0435\u0433\u043e \u0432 600 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u044d\u0440\u043e\u043c\u044d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/131593851.webp?k=08d820732ff59e8a7fccdf8bd37bdf0d6d047b8f202a191e6ef6519f6e343ec0&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/nerome-01.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "La Passione Boutique B&B",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,8",
+    "address": "\u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "La Passione Boutique B&B \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0442\u0438\u043f\u0430 \u00ab\u043f\u043e\u0441\u0442\u0435\u043b\u044c \u0438 \u0437\u0430\u0432\u0442\u0440\u0430\u043a\u00bb \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 2,2 \u043a\u043c \u0438 4,1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d \u0438 \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/83418059.webp?k=90e417fdf38f928ae82561610cca8c1ba9bbe461c825496d585661cfef83e8f0&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/la-passione.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=47&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Creass Hotel Tsubogawa Marche",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Creass Hotel Tsubogawa Marche \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0441 3 \u0437\u0432\u0435\u0437\u0434\u0430\u043c\u0438 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430. \u0412 \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0433\u043e\u0441\u0442\u0435\u0439 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0442\u0435\u0440\u0440\u0430\u0441\u0430. \u0417\u0430 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u043f\u043b\u0430\u0442\u0443 \u043c\u043e\u0436\u043d\u043e \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0447\u0430\u0441\u0442\u043d\u043e\u0439 \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u043e\u0439.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/178088001.webp?k=4a013f6be9c730d1663a678fa76f01558ce25f0451f7f9faccb5e288d55c81f5&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/kuriasuhoteruhu-chuan-marusie-na-ba-shi.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=48&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "\u30a2\u30eb\u30d5\u30a1\u30d9\u30c3\u30c8\u30a4\u30f3\u90a3\u8987\u56fd\u969b\u901a\u308aEAST",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "Tsuboya",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u30a2\u30eb\u30d5\u30a1\u30d9\u30c3\u30c8\u30a4\u30f3\u90a3\u8987\u56fd\u969b\u901a\u308aEAST \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 Tsuboya, \u0432 2,5 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0442\u0435\u0440\u0440\u0430\u0441\u0430 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi. \u0422\u0430\u043a\u0436\u0435 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043d\u043e\u043c\u0435\u0440\u0430 \u0434\u043b\u044f \u043d\u0435\u043a\u0443\u0440\u044f\u0449\u0438\u0445.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/452602967.webp?k=301b49bd7f63af8d5708fa4987e78f933f7246fcba9e366b8b3f0138850592f1&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/aruhuabetutoinna-ba-guo-ji-tong-rieast.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=49&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "Tissage Hotel Naha by Nest",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Tissage Hotel Naha by Nest \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0445\u0430. \u0412\u0441\u0435\u043c \u0433\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u043d\u0430 \u0432\u0441\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438. \u041f\u043e \u0443\u0442\u0440\u0430\u043c \u0441\u0435\u0440\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0437\u0430\u0432\u0442\u0440\u0430\u043a \u00ab\u0448\u0432\u0435\u0434\u0441\u043a\u0438\u0439 \u0441\u0442\u043e\u043b\u00bb.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/144477394.webp?k=521ec3727a43315d26a7a5aac965fb4142e13b87cc3e9b3ab74632325c099772&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/nest-nishimachi.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=50&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311478&from=searchresults"
+  },
+  {
+    "name": "\u3055\u304f\u3089\u3084",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,0",
+    "address": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u3055\u304f\u3089\u3084 \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 6 \u043a\u043c \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438: \u0417\u0430\u043c\u043e\u043a \u041d\u0430\u043a\u0430\u0433\u0443\u0441\u0443\u043a\u0443. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/275494874.webp?k=59c1e4c6826dd1dd38aec73a9f996bd61dfc470f5fc8d0e5b941f17b4a253d63&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/sakuraya-chong-nawa-shi.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=51&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Pool Villa Yagajishima by Coldio Premium",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u041d\u0430\u0433\u043e",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Pool Villa Yagajishima by Coldio Premium \u2014 \u044d\u0442\u043e \u0432\u0438\u043b\u043b\u0430 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0433\u043e. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0432\u0441\u0435\u0441\u0435\u0437\u043e\u043d\u043d\u044b\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/586777377.webp?k=eddaf06e4885d8db6d7652296fc5f02cb2d6b0287acfd79e7e70ea87d612a521&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/puruvuira-ji-jing-chu-by-korudeiopuremiamu.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=52&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "HOTEL HOUKLEA",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041d\u0430\u0433\u043e",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "HOTEL HOUKLEA \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0433\u043e, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 3 \u043a\u043c \u0438 22 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u041f\u043b\u044f\u0436 \u043f\u0430\u0440\u043a\u0430 \u00ab\u041b\u0435\u0441 XXI \u0432\u0435\u043a\u0430\u00bb \u0438 \u0417\u0430\u043c\u043e\u043a \u041d\u0430\u043a\u0438\u0434\u0437\u0438\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/405021858.webp?k=513f12f31b6c5310185b36b93f87d3be8819b7d7744b6b918b7683e536767918&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/houklea.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=53&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "The Yuinchi Hotel Nanjo",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041d\u0430\u043d\u0434\u0437\u0451",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "A wealth of indoor and outdoor activities awaits guests at Hotel Nanjo, including tennis, basketball and swimming at the 2 on-site pools.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/615331568.webp?k=df594d2725df25b4ff11267aa1555049a3e9fc08a64567b959619c3d356cff23&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/the-yuinchi-nanjo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=54&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Aqua Palace Chatan by Coldio Premium",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "\u0422\u044f\u0442\u0430\u043d",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Aqua Palace Chatan by Coldio Premium \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0422\u044f\u0442\u0430\u043d, \u0432 1,2 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u0421\u0430\u043d\u0441\u0435\u0442-\u0411\u0438\u0447.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/509740330.webp?k=82362a2a3d3b705f1fd1a8734cae2b65f857b89d02ee6fb51f0b636a210a7013&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/coldio-aqua-palace-chatan.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=55&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "1\u65e52\u7d44\u9650\u5b9a\u30aa\u30fc\u30b7\u30e3\u30f3\u30d3\u30e5\u30fc\u306e\u304a\u5bbf",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "\u014cura",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "1\u65e52\u7d44\u9650\u5b9a\u30aa\u30fc\u30b7\u30e3\u30f3\u30d3\u30e5\u30fc\u306e\u304a\u5bbf \u2014 \u044d\u0442\u043e \u0432\u0438\u043b\u043b\u0430 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u014cura, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u0430\u044f \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 1,1 \u043a\u043c \u0438 28 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0411\u0435\u0437\u044b\u043c\u044f\u043d\u043d\u044b\u0439 \u043f\u043b\u044f\u0436 \u0438 Onna-son Community Center.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/456944444.webp?k=75e315daa8f4dd913ac259e0ee2974db6ca1434871c334de71c70f15d93111e2&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/1ri-1zu-xian-ding-osiyanbiyunoosu.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=56&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "St\u00e4y Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u041d\u0430\u0433\u043e",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "St\u00e4y Hotel \u2014 \u044d\u0442\u043e \u0433\u043e\u0441\u0442\u0435\u0432\u043e\u0439 \u0434\u043e\u043c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u0433\u043e, \u0432 0 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u0421\u0443\u043c\u0443\u0438\u0434\u044d. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u044b, \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0441\u0430\u0434 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/638550772.webp?k=97396bc0e30edd155debc0fbfd86060ef686ced82411093b604f42b8dae26d92&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/stay-ming-hu-shi.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=57&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Hotel Ocean (Kokusai-Dori)",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "Kokusai Dori, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Located right on Kokusai Street within a 2-minute walk from Makishi Monorail Station, Hotel Ocean offers both Western style rooms with beds and Japanese style tatami (woven-straw flooring) rooms.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/638476680.webp?k=2595305acaee6f1d26948cf808db096e3623ff04ecf5cbbd3484aeed10251e42&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/ocean-naha.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=58&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "BiBi Hotel Kokusaidori",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Kokusai Dori, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "BiBi Hotel \u56fd\u969b\u901a\u308a \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041d\u0430\u0445\u0430. \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d \u0438 \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0422\u0430\u043c\u0430\u0443\u0434\u0443\u043d \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 2,5 \u043a\u043c \u0438 3 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e. \u0417\u0430\u043c\u043e\u043a \u041d\u0430\u043a\u0430\u0433\u0443\u0441\u0443\u043a\u0443 \u2014 \u0432 18 \u043a\u043c. \u0412 \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0433\u043e\u0441\u0442\u0435\u0439 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/487801136.webp?k=6eebff9504cc00fbe7ce0589e96aca384a027d4bc4b60e241d68676b4e68d634&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/bibi-naha.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=59&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Almont Hotel Naha Kenchomae",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "Kokusai Dori, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Located right next to Okinawa's local department store Ryubo and just a 2-minute walk from Kenchomae Monorail Station, Almont Hotel Naha Kenchomae offers modern rooms with free WiFi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/93117462.webp?k=578e27fac447cfe6fba4ee0de88d7eea5b8611eca1939fb2abb499ec2cfa5e5f&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/almont-hotel-naha-kenchomae.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=60&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "THE SENAGAJIMA STORYLINE",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "Tomigusuku",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "THE SENAGAJIMA STORYLINE \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 Tomigusuku, \u0432 0 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u0421\u044d\u043d\u0430\u0433\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/540614779.webp?k=9ff76ae815703862ab0bc1cc6a4c312c943befcf048b396df07abf01cfced8d2&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/the-senagajima-storyline.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=61&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "EMIL NAKIJIN",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,7",
+    "address": "Shoshi",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "EMIL NAKIJIN \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 Shoshi, \u0432 4,6 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0417\u0430\u043c\u043e\u043a \u041d\u0430\u043a\u0438\u0434\u0437\u0438\u043d. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0442\u0435\u0440\u0440\u0430\u0441\u0430 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/499193071.webp?k=626eaa79d33f862147e7809e3639f33a420d4b13883312f6afceb304d2b1e2ed&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/emil-nakijin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=62&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "EM Wellness Kurashinohakko Lifestyle Resort",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Kitanakagusuku",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Located a 20-minute drive from Sunset Beach, EM Wellness Living's Fermented Lifestyle Resort features a sun-filled spa, 3 dining options, a sauna and relaxing rooms with free wifi and balconies.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/531907326.webp?k=dcc44ec99004d349dfadc97938d985f44ef2d6250e4c3c8b65ec33dafba68965&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/em-costa-vista-okinawa.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=63&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Nagahama Beach Resort Kanon",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u041d\u0430\u043a\u0438\u0434\u0437\u0438\u043d",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Nagahama Beach Resort Kanon \u2014 \u044d\u0442\u043e \u0432\u0438\u043b\u043b\u0430 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041d\u0430\u043a\u0438\u0434\u0437\u0438\u043d. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u043c\u043e\u0440\u0435. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u0435\u0441\u0442\u044c \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0441\u0430\u0434 \u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430. \u0422\u0430\u043a\u0436\u0435 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/283960591.webp?k=a1165590ac5d0b82e6f56ea7723b3fb5b4a0fbfb03abcc59c0115b1098cd279c&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/nagahama-beach-resort-kanon.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=64&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Music Hotel Koza by Coldio Premium",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,0",
+    "address": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Music Hotel Koza by Coldio Premium \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041e\u043a\u0438\u043d\u0430\u0432\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 6,2 \u043a\u043c \u0438 13 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u0417\u0430\u043c\u043e\u043a \u041d\u0430\u043a\u0430\u0433\u0443\u0441\u0443\u043a\u0443 \u0438 \u0417\u0430\u043c\u043e\u043a \u041a\u0430\u0446\u0443\u0440\u0435\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/325072958.webp?k=7def99625ff0154985b046fe367abe9e1da404813d5ecd9f3d990dd344aae3e6&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/miyuzitukuhoteru-koza-by-korudeiopuremiamu.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=65&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Naha Tokyu REI Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "A 5-minute walk from Asahibashi Monorail Station, Naha Tokyu REI Hotel offers simple Western-style accommodations with free Wi-Fi and comfortable mattresses.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/683215207.webp?k=22cddff4ff2afe5b18ee36ce3764c841a65183d21b75b8fac6e9a9b61f8954a1&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/tokyu-bizfort-naha.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=66&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "KARCHIBE ISHIGAKI",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0418\u0441\u0438\u0433\u0430\u043a\u0438",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "KARCHIBE ISHIGAKI \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041e\u0441\u0442\u0440\u043e\u0432 \u0418\u0441\u0438\u0433\u0430\u043a\u0438, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 1,7 \u043a\u043c \u0438 4,1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u041f\u043b\u044f\u0436 \u041c\u0430\u044d\u0434\u0437\u0430\u0442\u043e \u0438 \u041c\u0443\u0437\u0435\u0439 \u042f\u044d\u044f\u043c\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/494217013.webp?k=dc7a18a9d6775841bd2874d06319f84f0cca8e3d3597495d50660c5c2a6045fa&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/karchibe-ishigaki.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=67&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Coral Palace Onna by Sunset Avenue",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u041e\u043d\u043d\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Coral Palace Onna by Sunset Avenue \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041e\u043d\u043d\u0430, \u0432 100 \u043c \u0438 600 \u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041f\u043b\u044f\u0436 \u0424\u0443\u0442\u044f\u043a\u0443 \u0438 \u041f\u043b\u044f\u0436 \u043f\u0440\u0438 \u043a\u0443\u0440\u043e\u0440\u0442\u043d\u043e\u043c \u043e\u0442\u0435\u043b\u0435 Moon Beach.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/351231663.webp?k=a42c8ba9f244db0f8220daaacddc2e040bfb41e33cf5650a8a517d7ff1c28a8d&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/koraruparesuen-na-by-korudeiopuremiamu.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=68&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Beach Front Tower Mihama by DSH",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u0422\u044f\u0442\u0430\u043d",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Beach Front Tower Mihama \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0422\u044f\u0442\u0430\u043d, \u0432 45 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0435\u0437\u0434\u044b \u043e\u0442 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0430 \u041d\u0430\u0445\u0430. \u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/195418584.webp?k=8c71bd6870ff5233b121e46772b504880d4199747523d447fb8eae2104742f26&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/beach-front-tower-mihama.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=69&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "HOTEL PACIFIC VIEW\uff08\u30db\u30c6\u30eb\u30d1\u30b7\u30d5\u30a3\u30c3\u30af\u30d3\u30e5\u30fc\uff09",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,3",
+    "address": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "HOTEL PACIFIC VIEW\uff08\u30db\u30c6\u30eb\u30d1\u30b7\u30d5\u30a3\u30c3\u30af\u30d3\u30e5\u30fc\uff09 \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041e\u043a\u0438\u043d\u0430\u0432\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 6,1 \u043a\u043c \u0438 10 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0417\u0430\u043c\u043e\u043a \u041d\u0430\u043a\u0430\u0433\u0443\u0441\u0443\u043a\u0443 \u0438 \u0417\u0430\u043c\u043e\u043a \u041a\u0430\u0446\u0443\u0440\u0435\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/362369443.webp?k=af80258a5a83a750558dffbc5db1492385e5c0b311787917e1c0464f785a3fd8&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/pacific-view-hoterupasihuitukubiyu.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=70&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Okinawa Prince Hotel Ocean View Ginowan",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u0413\u0438\u043d\u043e\u0432\u0430\u043d",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Okinawa Prince Hotel Ocean View Ginowan \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0413\u0438\u043d\u043e\u0432\u0430\u043d, \u0432 800 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0422\u0440\u043e\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043b\u044f\u0436.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/644522803.webp?k=a83ebf6072c40baed0ad2a50b3102c9a7e62ed4eba43809872771fd04e66eb53&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/chong-nawa-purinsuhoteru-osiyanbiyuginowan.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=71&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Wisteria Condominium Resort",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u041c\u043e\u0442\u043e\u0431\u0443",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u0422\u0440\u0435\u0445\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u043a\u0443\u0440\u043e\u0440\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c Wisteria Condominium \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u043e\u0442\u043e\u0431\u0443, \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0432 17 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0418\u0437\u0443\u043c\u0440\u0443\u0434\u043d\u043e\u0433\u043e \u043f\u043b\u044f\u0436\u0430 \u0438 \u0432 11 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u043e\u043a\u0435\u0430\u043d\u0430\u0440\u0438\u0443\u043c\u0430 \u0422\u044e\u0440\u0430\u0443\u043c\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/251511167.webp?k=0943d6f0e3ae04435a947d4f53066e21d1b892cf3007c7e071807b12fbee110e&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/wisteria.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=72&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Living Inn Asahibashiekimae Anex",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Living Inn Asahibashiekimae Anex \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041d\u0430\u0445\u0430, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 1,1 \u043a\u043c \u0438 4,8 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u041f\u043b\u044f\u0436 \u041d\u0430\u043c\u0438\u043d\u043e\u0443\u044d \u0438 \u041c\u0430\u0432\u0437\u043e\u043b\u0435\u0439 \u0422\u0430\u043c\u0430\u0443\u0434\u0443\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/621201929.webp?k=836319447d16394dbab5c3a2c379eeb1c068e3d3eb49d1af75bd3ca742bf5c86&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/ribinguinxu-qiao-yi-qian-anetukusu.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=73&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Sol Vita Hotel Naha",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "Naha City Centre, \u041d\u0430\u0445\u0430",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Sol Vita Naha \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0441\u0430\u0434\u0430 \u0424\u0443\u043a\u0443\u0441\u044e\u044d\u043d \u0438 \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0443\u043b\u0438\u0446\u044b \u041a\u043e\u043a\u0443\u0441\u0430\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/172367680.webp?k=959cbe97f4c293a3d565099bdf1e212d3fe6993323dcf4bcaa22acdc942a1d49&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/sol-vita-naha-matsuyama.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=74&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  },
+  {
+    "name": "Condominium\u30fbyuyuki",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u0419\u043e\u043c\u0438\u0442\u0430\u043d",
+    "distance": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430 - \u043e\u0441\u0442\u0440\u043e\u0432, \u0442\u0443\u0442 \u043d\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "description": "Condominium\u30fbyuyuki \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0419\u043e\u043c\u0438\u0442\u0430\u043d. \u041f\u043b\u044f\u0436 \u041d\u0430\u043a\u043a\u043e\u0440\u0438\u0431\u0430\u043c\u0430 \u0438 \u0417\u0430\u043c\u043e\u043a \u0417\u0430\u043a\u0438\u043c\u0438 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 1,1 \u043a\u043c \u0438 2,2 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e. \u041c\u044b\u0441 \u041c\u0430\u044d\u0434\u0430 \u2014 \u0432 7,1 \u043a\u043c. \u0412 \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0433\u043e\u0441\u0442\u0435\u0439 \u0435\u0441\u0442\u044c \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/179980987.webp?k=7c2522f749dd1941ff04c26b8f8922e372e251cde463c469fa74d2c72a301347&o=",
+    "hotel_url": "https://www.booking.com/hotel/jp/kondominiamuyuyuki.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QvtC60LjQvdCw0LLQsEghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4Aq-71MEGwAIB0gIkY2JhY2EzNDUtNzMxZC00YTQ4LTliMTEtNTUyN2Q2YTUzMmI32AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=75&sr_order=popularity&srpvid=ce390e97b2a003af&srepoch=1748311483&from=searchresults"
+  }
+]
