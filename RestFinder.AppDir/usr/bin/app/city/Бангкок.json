@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Eastin Grand Hotel Sathorn",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u0421\u0430\u0442\u043e\u0440\u043d, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "4,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0420\u043e\u0441\u043a\u043e\u0448\u043d\u044b\u0439 \u0433\u0440\u0430\u043d\u0434-\u043e\u0442\u0435\u043b\u044c Eastin Sathorn - SHA Extra Plus \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u043e\u043c \u0441\u043e \u0441\u0442\u0430\u043d\u0446\u0438\u0435\u0439 Surasak \u0431\u0430\u043d\u0433\u043a\u043e\u043a\u0441\u043a\u043e\u0433\u043e \u044d\u043a\u0441\u043f\u0440\u0435\u0441\u0441-\u043c\u0435\u0442\u0440\u043e BTS Skytrain.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/538696663.webp?k=c540795542db8fed2dc763f197c2e2403fe3be63bdf6afb97ca413d82c27e351&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/eastin-grand-sathorn.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "True Siam Rangnam Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "Ratchathewi, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "True Siam Rangnam Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u041f\u0440\u0430\u0442\u0443\u043d\u0430\u043c \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 1,8 \u043a\u043c \u0438 1,8 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Gaysorn Village \u0438...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/149545970.webp?k=7e3f52aed54c90f9438ced783a5df0ce69fce5a41c77f40ac0011cbb470bf0be&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/true-siam-rangnam.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "True Siam Phayathai Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "Ratchathewi, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c True Siam \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u043c \u0432 \u0431\u0430\u043d\u0433\u043a\u043e\u043a\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u041f\u0430\u0442\u0443\u043c\u0432\u0430\u043d, \u0432 4-\u0445 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 Phayathai, \u0441 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0436\u043d\u043e \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0434\u043e \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Monument.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/226800254.webp?k=fcef55981a08e445c521d5ce70ab20458b846a3a4a7d9ade11c24f2fad0d5b47&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/true-siam.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Amora NeoLuxe Suites Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0412\u0430\u0442\u0442\u0430\u043d\u0430, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Amora NeoLuxe \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u0421\u0443\u043a\u0445\u0443\u043c\u0432\u0438\u0442 \u0420\u043e\u0443\u0434 \u0432 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0435, \u0432\u0441\u0435\u0433\u043e \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043d\u0430\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0442\u0440\u043e Prompong.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/348765972.webp?k=40d35051e972962cbf50a9158d149f98c302ed920fa50f069ad554f6425dcfd9&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/amora-neoluxe.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "New Siam Palace Ville Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,8",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "1,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Located in the Bangkok Old Town district of Bangkok, New Siam Palace Ville Hotel Plus Certified Near Siriraj Hospital is within a walking distance to several attractions in Bangkok.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/427320055.webp?k=67d93af4cea8d647ce385fc51db4550812839050b48802831cabe5c218620ccd&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/new-siam-palace-ville.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Thanabhumi",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,4",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "0,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Thanabhumi \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a \u0440\u044f\u0434\u043e\u043c \u0441\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c\u0438 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044f\u043c\u0438: \u0423\u043b\u0438\u0446\u0430 \u041a\u0430\u043e\u0441\u0430\u043d-\u0440\u043e\u0443\u0434, \u0412\u0430\u0442-\u0421\u0430\u043a\u0435\u0442 \u0438 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0443\u0437\u0435\u0439 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/57844343.webp?k=2f64ad8a3ff648531efc72dc87b05202c73748a7398b38c1d72bc4737562a710&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/thanabhumi.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "SureStay Plus by Best Western Sukhumvit 2",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c SureStay Plus by Best Western Sukhumvit 2 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430, \u043c\u0435\u0436\u0434\u0443 \u0441\u0442\u0430\u043d\u0446\u0438\u044f\u043c\u0438 \u043d\u0430\u0434\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0442\u0440\u043e Phloen Chit \u0438 Nana. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u0432\u043e \u0432\u0441\u0435\u0445 \u0437\u043e\u043d\u0430\u0445.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/370981850.webp?k=a7799ea35b53e411e629844531e73085a10c81ffb33647b226da07035e9a0eca&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/surestay-plus-sukhumvit-2.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Zensation The Residence",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u0421\u0430\u0442\u043e\u0440\u043d, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0427\u0435\u0442\u044b\u0440\u0435\u0445\u0437\u0432\u0435\u0437\u0434\u043e\u0447\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c Zensation The Residence \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0435. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0441\u0430\u0434, \u0442\u0435\u0440\u0440\u0430\u0441\u0430, \u043e\u0431\u0449\u0438\u0439 \u043b\u0430\u0443\u043d\u0434\u0436 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/112732726.webp?k=c8f59f10307c93ff13c39356632a6b65a7d958bc42687a13e83742b12b57dc43&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/zensation-the-residence.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "The Quarter Saphankhwai by UHG",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "Phaya Thai, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Quarter Saphankhwai by UHG \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 2,7 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0420\u044b\u043d\u043e\u043a \u0432\u044b\u0445\u043e\u0434\u043d\u043e\u0433\u043e \u0434\u043d\u044f \u0427\u0430\u0442\u0443\u0447\u0430\u043a.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/659748195.webp?k=6492a89fdb5081dd9c42f7f5f0785feae192b1d9e0153a17f1814657ad957173&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/the-quarter-saphankhwai-by-uhg.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Best Western Click Sathorn 11 Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "\u0421\u0430\u0442\u043e\u0440\u043d, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "4,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Best Western Click Sathorn 11 Bangkok \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 3,5 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a One Bangkok.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/498997857.webp?k=14712828488f978263142f7d1302b15c56a71f92c608fde123538413d2235c58&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/best-western-click-sathorn-11-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Hansa Bangkok House",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,4",
+    "address": "Bang Phlat, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "2,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Hansa Bangkok House \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0442\u0438\u043f\u0430 \u00ab\u043f\u043e\u0441\u0442\u0435\u043b\u044c \u0438 \u0437\u0430\u0432\u0442\u0440\u0430\u043a\u00bb \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 3,1 \u043a\u043c \u0438 3,3 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0443\u0437\u0435\u0439 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430 \u0438...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/624952375.webp?k=dfa00e27e43b31b85e81259292483e04331d1f53c01c002fa6a2aa2834450586&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/hansa-bangkok-house.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "The Promenade Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,9",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c The Promenade Bangkok Hotel - SHA Plus \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 100 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043d\u0430\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0442\u0440\u043e Nana.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/343254385.webp?k=947fdff709fc596f2d4760db4f8ab2482ab7b85bce408c2da35e67cc3b861335&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/the-promenade.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "River Home Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,2",
+    "address": "Khlong San, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "River Home Bangkok \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 4,8 \u043a\u043c \u0438 5 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0425\u0440\u0430\u043c \u0412\u0430\u0442-\u0410\u0440\u0443\u043d \u0438 \u0425\u0440\u0430\u043c \u0412\u0430\u0442-\u041f\u0445\u043e. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0442\u0435\u0440\u0440\u0430\u0441\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/448216627.webp?k=6ab24a356dad6ebcc558abca7e2485c958adaa9dc7007889589a63557906fcf3&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/river-home.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "\u041e\u0442\u0435\u043b\u044c \u0418\u0441\u0442\u0438\u043d \u0413\u0440\u0430\u043d\u0434 \u041f\u0445\u0430\u044f\u0442\u0430\u0439",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,5",
+    "address": "Ratchathewi, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Eastin Grand Hotel Phayathai \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 1,8 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Siam Discovery.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/466543363.webp?k=fc870113d2066f9c897c74dac8a30085b5a35d11356da52f7399ea36917eab6b&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/eastin-grand-phayathai.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Tara Place Hotel Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "1,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 Tara Place \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0443\u043b\u0438\u0446\u044b \u041a\u0430\u043e\u0441\u0430\u043d-\u0420\u043e\u0443\u0434 \u0438 \u043d\u043e\u0447\u043d\u044b\u0445 \u0437\u0430\u0432\u0435\u0434\u0435\u043d\u0438\u0439.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/12242683.webp?k=d4e92209fe4c9058ad77df8a328a9bff364a248db59d39fb3308da00d081a44e&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/tara-place.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "\u0411\u0410\u0419\u041e\u041a \u0421\u041a\u0410\u0419 \u041e\u0422\u0415\u041b\u042c",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,0",
+    "address": "Ratchathewi, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Baiyoke Sky \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 88-\u044d\u0442\u0430\u0436\u043d\u043e\u043c \u0437\u0434\u0430\u043d\u0438\u0438 \u0438 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u0430\u043c\u044b\u043c \u0432\u044b\u0441\u043e\u043a\u0438\u043c \u043e\u0442\u0435\u043b\u0435\u043c \u0432 \u0422\u0430\u0438\u043b\u0430\u043d\u0434\u0435. \u0418\u0437 \u0435\u0433\u043e \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0430\u043d\u043e\u0440\u0430\u043c\u043d\u044b\u0439 \u0432\u0438\u0434 \u043d\u0430 \u0411\u0430\u043d\u0433\u043a\u043e\u043a.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/216005808.webp?k=d0c3224acdfffa5a6f4f53e0436773bda91e6b2f7a9bfe98ece05f694e81b371&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/baiyoke-sky.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Parvena Hotel Sathorn",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0421\u0430\u0442\u043e\u0440\u043d, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Parvena \u0443\u0434\u043e\u0431\u043d\u043e \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0435, \u0432\u0441\u0435\u0433\u043e \u0432 450 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0443\u043b\u0438\u0446\u044b \u0421\u0430\u0442\u043e\u0440\u043d-\u0440\u043e\u0443\u0434 \u0438 \u0432 1 \u043a\u043c \u043e\u0442 \u0443\u043b\u0438\u0446\u044b \u0421\u0438\u043b\u043e\u043c-\u0440\u043e\u0443\u0434.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/112823347.webp?k=9fc1be4412632d52c77058a20a71b5ca69a6f34de4c50d6c4b50d9932fcd7ee5&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/parvena-hostel.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Amara Bangkok Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u0411\u0430\u043d\u0433 \u0420\u0430\u043a, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Amara Bangkok Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 2,4 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a One Bangkok. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440, \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/582205754.webp?k=e3e8d99935cc425b8ac7743b913362fc33bf91bb584bb0cf0bfffe7adb005b38&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/amara-bangkok-hotel.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Travelodge Sukhumvit 11",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0412\u0430\u0442\u0442\u0430\u043d\u0430, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Travelodge Sukhumvit 11 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u043e\u0436\u0438\u0432\u043b\u0435\u043d\u043d\u043e\u0439 \u0443\u043b\u0438\u0446\u0435 \u0421\u043e\u0439-\u0421\u0443\u043a\u0445\u0443\u043c\u0432\u0438\u0442 11, \u0432\u0441\u0435\u0433\u043e \u0432 7 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043d\u0430\u0434\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0442\u0440\u043e Nana Skytrain.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/119523159.webp?k=aaed657380198f54bb56907789766df7fcf30c138603038ca377b48749eebb10&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/travelodge-sukhumvit-11.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Golden Tulip Mandison Suites",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "6,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Golden Tulip \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442 \u0441\u0442\u0438\u043b\u044c\u043d\u044b\u043c\u0438 \u043d\u043e\u043c\u0435\u0440\u0430\u043c\u0438 \u0441 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c \u0438\u043d\u0442\u0435\u0440\u044c\u0435\u0440\u043e\u043c \u0438\u0437 \u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0434\u0435\u0440\u0435\u0432\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u043e\u043c, \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u043e\u043c \u0443 \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u0430 \u0438 \u0431\u0430\u0440\u043e\u043c. \u041e\u0442\u0435\u043b\u044c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0421\u0443\u043a\u0445\u0443\u043c\u0432\u0438\u0442 20.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/483728464.webp?k=d2bb66e7d2fe15f22c5ff7e1925dae78920bf3aaef78e3d21f28567a370e0ee4&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/golden-tulip-mandison-suites.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Le D'Tel Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u0421\u0430\u0442\u043e\u0440\u043d, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Le D'Tel Bangkok \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0440\u0430\u0439\u043e\u043d\u0430 \u0421\u0438\u043b\u043e\u043c \u0438 \u0421\u0430\u0442\u0445\u043e\u0440\u043d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u043c\u0435\u0431\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u043c\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432\u0430\u043c\u0438 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/131237224.webp?k=92e7afe541c0f4dffd92b4f00c95efb89f8b3dead9d112dd7f0a6b015606d660&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/le-d-39-tel.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "CHERN Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "0,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0421\u0442\u0435\u043d\u044b \u0445\u043e\u0441\u0442\u0435\u043b\u0430 CHERN \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u044b \u0442\u0430\u0439\u0441\u043a\u0438\u043c\u0438 \u0438\u0434\u0438\u043e\u043c\u0430\u043c\u0438 \u0438 \u043f\u043e\u0441\u043b\u043e\u0432\u0438\u0446\u0430\u043c\u0438. \u0412 \u0445\u043e\u0441\u0442\u0435\u043b\u0435 CHERN \u043c\u043e\u0436\u043d\u043e \u0437\u0430\u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0435 \u0438 \u043e\u0431\u0449\u0438\u0435 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/577024912.webp?k=45058dbe0ab9bdd6bcbb4679f7b7c458556d2fb02bcb1c173f2a39b2f884127b&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/chern.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "The Rose Residence, Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,0",
+    "address": "\u0411\u0430\u043d\u0433 \u0420\u0430\u043a, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Rose Residence, Bangkok \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 2 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a One Bangkok. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u0441\u0430\u0434, \u0442\u0435\u0440\u0440\u0430\u0441\u0430, \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/141456773.webp?k=448a64bf09919947e1e77ae1f53a307d0ccdc6d5f816814df008d1790ad5f21f&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/the-rose-residence-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Fully furnished, City View, Pool, Gym, WiFi",
+    "rating": "N/A",
+    "address": "\u0412\u0430\u0442\u0442\u0430\u043d\u0430, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "9,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Fully furnished, City View, Pool, Gym, WiFi \u2014 \u044d\u0442\u043e \u0434\u043e\u043c \u0434\u043b\u044f \u043e\u0442\u043f\u0443\u0441\u043a\u0430 \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0412\u0430\u0442\u0442\u0430\u043d\u0430 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 3,5 \u043a\u043c \u0438 5,5 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/534846667.webp?k=662a83ae1fb2147d1bfb8e25c72a4a8ffaba1d9ba92059d98d00c69fd53f2f6f&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/fully-furnished-city-view-pool-gym-wifi.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Bed By City Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u0411\u0430\u043d\u0433 \u0420\u0430\u043a, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c BED BY CITY SURAWONG-PATPONG \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0435. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 WiFi \u0438 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u043e\u0440\u043e\u043c \u0441\u043e \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u044b\u043c\u0438 \u043a\u0430\u043d\u0430\u043b\u0430\u043c\u0438, \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u043c \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0447\u0430\u0439\u043d\u0438\u043a\u043e\u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/368298985.webp?k=e1c0f2f8e2f9288811539481a17f7f784972086d68eda35080ddec04be26d684&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/bed-by-sam-yan.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Rambuttri Village Plaza",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,8",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "1,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Rambuttri Village Plaza - SHA Extra Plus \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430 \u0420\u0430\u0442\u0442\u0430\u043d\u0430\u043a\u043e\u0441\u0438\u043d, \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0443\u043b\u0438\u0446\u044b \u041a\u0430\u043e\u0441\u0430\u043d-\u0440\u043e\u0443\u0434, \u0432 \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0438 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0445 \u0438 \u0440\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0437\u0430\u0432\u0435\u0434\u0435\u043d\u0438\u0439.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/49467398.webp?k=b9594be22c213adf6d23037d668cae4d1223f6edfd321e8c64f7b91c0dfd5710&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/rambuttri-village-plaza.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "De Prime Rangnam Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Ratchathewi, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "De Prime Rangnam Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0441 4 \u0437\u0432\u0435\u0437\u0434\u0430\u043c\u0438 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 1,9 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Gaysorn Village. \u0412 \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0438 \u0431\u0430\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/648841512.webp?k=c4f7469a914977e81d90c0ebb836b4f70f5a06f726fce6e2b6a33c140ee94b1a&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/de-prime-rangnam.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Hyde Park Hotel Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,6",
+    "address": "Ratchathewi, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "4,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Hyde Park Hotel Bangkok \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0441 3 \u0437\u0432\u0435\u0437\u0434\u0430\u043c\u0438 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 4,6 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Siam Discovery. \u0412 \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/413496321.webp?k=db363be1d327c0ceb15ba570edd332c388954e3a1c8c0608fba8ff7026fc98c2&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/hyde-park-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "The LA49 Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "\u0412\u0430\u0442\u0442\u0430\u043d\u0430, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "8,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Nestled in the heart of Bangkok's vibrant Thonglor district, The LA49 Hotel offers a perfect blend of modern luxury and local charm.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/99389883.webp?k=240b95f86f3d7941bd62a1a7054a26f70eed9cc8076d84d624d80de07afd687a&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/la-residence-49.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "The Continent Hotel Sukhumvit - Asok BTS Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,0",
+    "address": "\u0412\u0430\u0442\u0442\u0430\u043d\u0430, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "6,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Continent Hotel Bangkok is ideally located in the heart of Bangkok's central business district, providing effortless access to entertainment venues like Soi Cowboy and Nana Soi 4.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/511731134.webp?k=5cd51a351516e67f01326458f86740250abab8270d60ff7c07de9ff420643ef8&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/the-continent-hotel-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Let's Zzz Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "1,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Let's Zzz Bangkok \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0423\u043b\u0438\u0446\u0430 \u041a\u0430\u043e\u0441\u0430\u043d-\u0440\u043e\u0443\u0434. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0431\u0449\u0438\u0439 \u043b\u0430\u0443\u043d\u0434\u0436 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u043d\u0430 \u0432\u0441\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/158945788.webp?k=417409349f90fa3630e3b65e5d9edb3afc7679850e10eac7aef84538bc9ea9bf&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/let-39-s-zzz-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Sawasdee Hotel @ Sukhumvit Soi 8",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Sawasdee @ Sukhumvit Soi 8 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 BTS Nana Skytrain. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u0430\u044f \u0441\u0442\u043e\u0439\u043a\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/438599321.webp?k=79f935370979b063fd955faf51c8c5aaa2603368d62a5930fc872ce2e2329578&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/sawasdee-sukhumvit-soi-8.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Shangri-La Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u0411\u0430\u043d\u0433 \u0420\u0430\u043a, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Shangri-La Bangkok \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u0431\u0435\u0440\u0435\u0433\u0443 \u0440\u0435\u043a\u0438 \u0427\u0430\u0443\u043f\u0445\u0440\u0430\u044f. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440 \u043f\u043b\u043e\u0449\u0430\u0434\u044c\u044e 10 000 \u043a\u0432. \u043c\u0435\u0442\u0440\u043e\u0432 \u0438 \u043f\u0435\u0440\u0432\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u044b\u0439 \u0441\u043f\u0430-\u0446\u0435\u043d\u0442\u0440 CHI at Shangri-La.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/350599279.webp?k=ba75ff94e56a4bec90e04d744b382e45b0a86bea0433993c0b604b043e9f582c&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/shangri-la-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Bangkok 68",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 6,5",
+    "address": "\u0414\u0438\u043d\u0434\u044d\u043d, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "7,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0413\u043e\u0441\u0442\u0435\u0432\u043e\u0439 \u0434\u043e\u043c Bangkok 68 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0435. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u0430\u0431\u0435\u043b\u044c\u043d\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u043c, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d \u0438 \u043a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u0430\u044f \u0441\u0442\u043e\u0439\u043a\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/66501545.webp?k=3615a0e9b8277d8934846f42f485bf07f195cb78ba715c0b55de72d0db315adb&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/bangkok-68.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "2BR 1BA Home In Yaowarat 5 Min MRT Nivas Wanit ECO",
+    "rating": "N/A",
+    "address": "Samphanthawong, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "1,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "2BR 1BA Home In Yaowarat 5 Min MRT Nivas Wanit ECO \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a \u2014 \u0421\u0442\u0430\u0440\u044b\u0439 \u0433\u043e\u0440\u043e\u0434 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u043f\u043e\u0434\u0430\u043b\u0435\u043a\u0443 \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0412\u0430\u0442-\u0421\u0430\u043a\u0435\u0442.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/686299397.webp?k=3e4d73dae7569063b7fc903ab9a5f4549386605f5e9db988480e5fff79de31a8&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/2br-1ba-home-in-yaowarat-5-min-mrt-nivas-wanit-eco.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Nasa Bangkok - SHA PLUS Certified",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 6,8",
+    "address": "Suan Luang, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "10,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Nasa Bangkok - SHA PLUS Certified \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0435, \u043f\u0440\u044f\u043c\u043e \u043d\u0430\u043f\u0440\u043e\u0442\u0438\u0432 \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0439 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u0420\u0430\u043c\u043a\u0445\u0430\u043c\u0445\u0430\u0435\u043d\u0433 \u043b\u0438\u043d\u0438\u0438, \u0432\u0435\u0434\u0443\u0449\u0435\u0439 \u0432 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0421\u0443\u0432\u0430\u0440\u043d\u0430\u0431\u0445\u0443\u043c\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/484791901.webp?k=ef5871c8f3ab6274d961d0794a366fa69af951a543d61fbd626cbfb952aa09ea&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/nasa-vegas.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "PR Place Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "Ratchathewi, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c PR Place \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u041f\u0430\u0442\u0443\u043c\u0432\u0430\u043d \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 300 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u043e\u043f\u0442\u043e\u0432\u043e\u0433\u043e \u0440\u044b\u043d\u043a\u0430 \u041f\u0440\u0430\u0442\u0443\u043d\u0430\u043c. \u041f\u0440\u043e\u0433\u0443\u043b\u043a\u0430 \u0434\u043e \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430 Central World Plaza \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 11 \u043c\u0438\u043d\u0443\u0442.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/124469304.webp?k=790be58c39feef218e7a1b1b7002bb3c86db06f64ed7dbc6be108ebacee86d34&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/pr-place.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Norma Hotel Sathorn - Formerly T2 Residence Sathorn",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,0",
+    "address": "\u0421\u0430\u0442\u043e\u0440\u043d, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Norma Hotel Sathorn - Formerly T2 Residence Sathorn \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0441 3 \u0437\u0432\u0435\u0437\u0434\u0430\u043c\u0438 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 2,1 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a One Bangkok. \u0412 \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/650058636.webp?k=1d9d8453128c3481ef76b1ec73cf76a5b0c9393070c5f1af330a6b916f2f5067&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/norma-sathorn.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Lamphuhouse Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "1,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Lamphuhouse Bangkok - SHA Extra Plus Certified \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043f\u043e\u0441\u0440\u0435\u0434\u0438 \u043f\u044b\u0448\u043d\u043e\u0439 \u0437\u0435\u043b\u0435\u043d\u0438 \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u0420\u0430\u043c\u0431\u0443\u0442\u0440\u0438, \u0432\u0441\u0435\u0433\u043e \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0439 \u0443\u043b\u0438\u0446\u044b \u041a\u0430\u043e\u0441\u0430\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/328430503.webp?k=4f44daec05accade3f5269eb5ead44bb690760b0bf3c1b62f0ef3ff896401415&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/lamphuhouse-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Seekers Finders Rama IV Hotel SureStay Collection by BW",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "6,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Seekers Finders Rama IV Hotel SureStay Collection by BW \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0438 1,3 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/613789630.webp?k=358017f5d0d4f12fe10677e283b9b37af775dc4b1307c836b41f8d543416b7d9&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/seekers-finders-rama-iv-surestay-collection-by-bw.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Pho Place",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "Samphanthawong, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Pho Place \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0435, \u0432 450 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430 Sampeng \u0438 \u0432 540 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e-\u043f\u0435\u0440\u0435\u0441\u0430\u0434\u043e\u0447\u043d\u043e\u0433\u043e \u0443\u0437\u043b\u0430 MRT-Hualamphong.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/200293887.webp?k=002b9b3a045709a7ee4ad66a12700549efe6d97f70babab6bb7151cd576541fb&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/pho-place.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Gardina Asoke Hotel & Residence",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "6,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Gardina Asoke Hotel & Residence \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 1,3 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u043d\u0433\u0440\u0435\u0441\u0441-\u0446\u0435\u043d\u0442\u0440 \u0438\u043c\u0435\u043d\u0438 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u044b \u0421\u0438\u0440\u0438\u043a\u0438\u0442.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/678032923.webp?k=d4f71a9ba4b00ca175655d1e106c92af54cea63f7bde568323fc76f55e40ede8&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/gardina-asoke.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Haus Sathorn 21 Bed and Breakfast",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "\u0421\u0430\u0442\u043e\u0440\u043d, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "4,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Haus Sathorn 21 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0435, \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0421\u0430\u0442\u043e\u0440\u043d. \u041e\u0442\u0435\u043b\u044c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 500 \u043c \u043e\u0442 \u043f\u0438\u0440\u0441\u0430 \u0421\u0430\u0442\u043e\u0440\u043d \u0438 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043d\u0430\u0434\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0442\u0440\u043e Saphan Taksin, \u0432 3,9 \u043a\u043c \u043e\u0442 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430 ICONSIAM \u0438 \u0432 30 \u043c\u0438\u043d\u0443\u0442\u0430\u0445...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/134848742.webp?k=5079ec47cceeca8d395d0c9e80242f693e2abb3da9ec69d7a814bad8d2467e8c&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/haus-sathorn-21.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Sakura Sky Residence",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,0",
+    "address": "\u0412\u0430\u0442\u0442\u0430\u043d\u0430, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "7,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Sakura Sky Residence \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0412\u0430\u0442\u0442\u0430\u043d\u0430 \u0432 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0435. \u041e\u0442\u0435\u043b\u044c \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u043a\u0430\u043a \u0434\u043b\u044f \u0442\u0443\u0440\u0438\u0441\u0442\u043e\u0432, \u0442\u0430\u043a \u0438 \u0434\u043b\u044f \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u043e\u0432. \u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/56947830.webp?k=87e0a6ef76644b035c214b924b0d5e849e575c5b5ce494f4be2929c9e3cfa7bb&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/sakura-sky-residence.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "The Quarter Ladprao by UHG",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "Chatuchak, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "8,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Quarter Ladprao by UHG \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440, \u0441\u0430\u0434 \u0438 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/612124826.webp?k=48bbda615be00355ae735355e535983f1b8fd3d9872a72c9e9b958f552a4f7da&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/ladprao-hills.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "The Quart Ruamrudee by UHG",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "\u041f\u0430\u0442\u0443\u043c\u0432\u0430\u043d, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Quart Ruamrudee by UHG \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 1,2 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041f\u0430\u0440\u043a \u041b\u044e\u043c\u043f\u0438\u043d\u0438. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440 \u0438 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/393178037.webp?k=834a6c404edc2487598aef70cf30e977a6b3e61eb952c635666586a517bcf0b3&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/the-quart-ruamrudee-by-uhg.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Bourbon St. Boutique Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0412\u0430\u0442\u0442\u0430\u043d\u0430, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "9,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0411\u0443\u0442\u0438\u043a-\u043e\u0442\u0435\u043b\u044c Bourbon St. \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432\u0441\u0435\u0433\u043e \u0432 100 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Eakmai. \u0413\u043e\u0441\u0442\u0438 \u043c\u043e\u0433\u0443\u0442 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f Wi-Fi \u0438 \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u043e\u0439.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/32071977.webp?k=8abe2ccca9a6a5f832d443fd18dd06a252418afa8aed919e966d65d3d7639b54&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/bourbon-st-boutique-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=47&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Romance Hotel Sukhumvit 97",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,0",
+    "address": "Phra Khanong, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "12,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Romance Hotel Sukhumvit 97 \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 6 \u043a\u043c \u0438 6,2 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0441\u043a\u0438\u0439 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0442\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0438 \u0432\u044b\u0441\u0442\u0430\u0432\u043e\u0447\u043d\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0438 \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/132708533.webp?k=7970cdc668a0a85f20e8c79d49c830b3a1531f3f5965a70b4aa57d5f027150b1&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/oraemnch-ohethl-sukhumwith97.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=48&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Bangkok Saran Poshtel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,2",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "1,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Bangkok Saran Poshtel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 1,6 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0443\u0437\u0435\u0439 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u0433\u043e\u0440\u043e\u0434.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/146028335.webp?k=4f9db6ae4632b989265097b58377f551eb4d86cb8edc8e766261b4fdea4be06b&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/bangkoksaran.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=49&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "AT EASE saladaeng by AETAS",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u0411\u0430\u043d\u0433 \u0420\u0430\u043a, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c AT EASE saladaeng by AETAS \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0435\u0434\u0430\u043b\u0435\u043a\u043e \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043d\u0430\u0434\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0442\u0440\u043e Saladaeng \u0438 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043f\u043e\u0434\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0442\u0440\u043e Silom, \u043e\u0442\u043a\u0443\u0434\u0430 \u0432\u044b \u043b\u0435\u0433\u043a\u043e \u0441\u043c\u043e\u0436\u0435\u0442\u0435 \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0434\u043e \u0446\u0435\u043d\u0442\u0440\u0430 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/102326964.webp?k=532d212e3b63c8b18ae29552307760335935d1413db92bd34954b47f61d0d85b&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/at-ease-saladaeng.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=50&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475609&from=searchresults"
+  },
+  {
+    "name": "Journeyhub Sukhumvit 26, Bangkok - Formerly St James Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "7,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Journeyhub Sukhumvit 26, Bangkok - Formerly St James Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 500 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Emporium.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/655338543.webp?k=2f5a01d91e23aee6913dc5c95a07c67961506d3664a34a43d51a7003bdef74e3&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/journeyhub-sukhumvit-26-bamgkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=51&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "HOME175 Peaceful 2BR near BTS & IconSiam",
+    "rating": "N/A",
+    "address": "\u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "HOME175 Peaceful 2BR near BTS & IconSiam \u2014 \u044d\u0442\u043e \u0434\u043e\u043c \u0434\u043b\u044f \u043e\u0442\u043f\u0443\u0441\u043a\u0430 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 3,4 \u043a\u043c \u0438 3,6 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0425\u0440\u0430\u043c \u0412\u0430\u0442-\u0410\u0440\u0443\u043d \u0438 \u0425\u0440\u0430\u043c \u0412\u0430\u0442-\u041f\u0445\u043e.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/689444006.webp?k=c7e90cf875f74eede81bb580292c79ca3461dcd17a00549311a68ec03e689830&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/home175-peaceful-2br-near-bts-amp-iconsiam.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=52&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "latitude 13 Room & breakfast",
+    "rating": "N/A",
+    "address": "\u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Latitude 13 Room & breakfast \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 3,2 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0443\u0437\u0435\u0439 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430. \u0412 \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0433\u043e\u0441\u0442\u0435\u0439 \u043d\u043e\u043c\u0435\u0440\u0430 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0442\u0435\u0440\u0440\u0430\u0441\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/688997483.webp?k=99dc9953da0dba3cb74151ac5b46f1167855d85037b01fd080acb573fc7f66e4&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/latitude-13-room-amp-breakfast.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=53&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Villa Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "450 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0412\u0438\u043b\u043b\u0430 Phra Sumen Bangkok \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0430 \u0432 1,6 \u043a\u043c \u043e\u0442 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0434\u0432\u043e\u0440\u0446\u0430. \u0413\u043e\u0441\u0442\u0438 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u044e\u0442\u0441\u044f \u0432 \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u0430\u0431\u0435\u043b\u044c\u043d\u044b\u0445 \u043d\u043e\u043c\u0435\u0440\u0430\u0445 \u0441 \u043f\u0440\u0438\u0433\u043b\u0443\u0448\u0435\u043d\u043d\u044b\u043c \u043e\u0441\u0432\u0435\u0449\u0435\u043d\u0438\u0435\u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/224168359.webp?k=2580ce82a86385bfab69845474577ef530f779a32c6da3b36346ff0b91a4458a&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/villa-bangkok1.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=54&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Club Mahindra Mac Boutique Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0412\u0430\u0442\u0442\u0430\u043d\u0430, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0411\u0443\u0442\u0438\u043a-\u043e\u0442\u0435\u043b\u044c Mac Suites \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u0421\u0443\u043a\u0445\u0443\u043c\u0432\u0438\u0442 7. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/265230554.webp?k=01dca1452633674a880e99a417e9783caa186e3a68cd4da8e31916c2d6da95ab&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/mac-boutique-suites.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=55&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Maison Hotel Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Maison Bangkok \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430, \u0432 200 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0439 \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445 Nana Plaza \u0438 \u0432 270 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043d\u0430\u0434\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0442\u0440\u043e Nana.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/507325878.webp?k=20e75dd237f8a9d4dc4e20a460fe3f01a4ac464ebada16e5f3a78991366fea58&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/maisonbangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=56&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "OYO 75565 Hotel Diamond Residence Silom",
+    "rating": "N/A",
+    "address": "\u0411\u0430\u043d\u0433 \u0420\u0430\u043a, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "OYO 75565 Hotel Diamond Residence Silom \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0411\u0430\u043d\u0433 \u0420\u0430\u043a \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 3,2 \u043a\u043c \u0438 3,3 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: One Bangkok \u0438...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/686598752.webp?k=45c6e649838cc66510017abfdcb1ee1b715c38ac0a7e55c2792eeb669425b244&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/oyo-75565-diamond-residence-silom.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=57&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Pillow & Bread",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "Phaya Thai, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "6,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Just a 12-minute walk from BTS Saphan Kwai Station, Pillow & Bread offers accommodation with easy access to all forms of transportation in Bangkok.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/296136800.webp?k=d9cce7e461459ff9cbc30fff923947bdb96211aa549ed2066b7ca096add067ff&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/pillow-amp-bread.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=58&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Saan Hotel Sathorn",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "Khlong San, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Saan Hotel Sathorn \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 4,7 \u043a\u043c \u0438 4,9 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0425\u0440\u0430\u043c \u0412\u0430\u0442-\u0410\u0440\u0443\u043d \u0438 \u0425\u0440\u0430\u043c \u0412\u0430\u0442-\u041f\u0445\u043e.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/547669567.webp?k=5935ca1d1bef80473b4a1fd3a5b174275abc2941a642154cd7fa1f04cc0a2c67&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/saan-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=59&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Carlton Hotel Bangkok Sukhumvit",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u0412\u0430\u0442\u0442\u0430\u043d\u0430, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "6,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Carlton Hotel Bangkok Sukhumvit \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 700 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Emporium.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/243879561.webp?k=1f2328e4ee12adcb3a06db1bda9575c71feadcbf162439ae38456f43142233ff&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/carlton-bangkok-sukhumvit.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=60&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Millennium Hilton Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "Khlong San, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Located on the banks of the Chao Phraya River, this contemporary 5-star property has 4 dining options, a gym, and a world-class spa. Free WiFi is available in public areas.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/645600988.webp?k=830511831f1d48ac54b54029376879c80babf0a718ba23d0985ecf6e54244256&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/millennium-hilton-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=61&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Dinsomon Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "450 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Dinsomon Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0441\u0430\u0434, \u043e\u0431\u0449\u0438\u0439 \u043b\u0430\u0443\u043d\u0434\u0436 \u0438 \u0431\u0430\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/575961802.webp?k=c70a40b0177ed520d478089a04514d5b29c210fe80d41ddd115efe12c3173532&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/dinsormon.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=62&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Kaloang home",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,0",
+    "address": "\u0414\u0443\u0441\u0438\u0442, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 Kaloang home \u0441 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u0438\u0435\u043c \u0432 \u0441\u0435\u043c\u044c\u0435 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0443 \u0440\u0435\u043a\u0438 \u0427\u0430\u043e \u041f\u0440\u0430\u0439\u044f. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/39634554.webp?k=1db6bf2ac2ee5dca32694f8184dbd57ab1482c2a2c87ff80a98b496470a600aa&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/kaloang-home.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=63&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "The Quarter Chaophraya by UHG",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "Khlong San, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "2,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Quarter Chaophraya by UHG \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 4 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0425\u0440\u0430\u043c \u0412\u0430\u0442-\u0410\u0440\u0443\u043d. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d, \u0441\u0430\u0434, \u0442\u0435\u0440\u0440\u0430\u0441\u0430 \u0438 \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/686503727.webp?k=36bbe275bde247b73d66e326054d8d3076ff98e9c945b070a7250960027cd0f5&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/the-quarter-chaophraya-by-uhg.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=64&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "W22 by Burasari",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "Pom Prap Sattru Phai, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "1,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "W22 by Burasari \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 2,9 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0414\u043e\u043c-\u043c\u0443\u0437\u0435\u0439 \u0414\u0436\u0438\u043c\u0430 \u0422\u043e\u043c\u043f\u0441\u043e\u043d\u0430. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u0433\u043e\u0440\u043e\u0434.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/262123433.webp?k=657641b0d91b3a289d86773876659e6cc6e18b7ea76a2c5ff5842f28f5498f94&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/w22.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=65&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "The Coach Hotel Sukhumvit - Asok BTS Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "6,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Coach Hotel Sukhumvit - Asok BTS Bangkok \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 1,2 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Emporium.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/385722671.webp?k=5fa8e0be28e4b06c15dc4632ff1e637503ee5be1bca3ef8f73681b9164d0090a&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/the-coach-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=66&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "GalileOasis Boutique Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,0",
+    "address": "Ratchathewi, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "2,3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "GalileOasis Boutique Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 1,9 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Siam Discovery. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u0441\u0430\u0434.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/448206039.webp?k=d2b15d2435a0c369ce7bfb4dc856ccbcbfc138b855ebcdc72f6da31de75cc27c&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/galileoasis-boutique.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=67&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "@42 Residence",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 6,6",
+    "address": "Bang Phlat, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "3,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "@42 Residence \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 3,1 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0443\u0437\u0435\u0439 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u0435\u0441\u0442\u044c \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430, \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/238105843.webp?k=63415556a8e6465a7f69b2063aeabfd3a789419f9dcc580a5abfa7f1eec84d5a&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/42-residence.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=68&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Thaisun Bangkok Hotel",
+    "rating": "N/A",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "10,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Thaisun Bangkok Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0441 4 \u0437\u0432\u0435\u0437\u0434\u0430\u043c\u0438 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 3,2 \u043a\u043c \u0438 4,5 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Emporium \u0438 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u043d\u0433\u0440\u0435\u0441\u0441-\u0446\u0435\u043d\u0442\u0440 \u0438\u043c\u0435\u043d\u0438...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/572553272.webp?k=4a0894c82dc6264b00f88aa9be731f580c54d074bf356f47fd157a39897ed3e8&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/po-thaisun-bangkok-hotel-amphoe-phra-khanong.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=69&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Hotel De Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "Ratchathewi, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c De Bangkok \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043d\u0430\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0442\u0440\u043e Victory Monument \u0438 \u0440\u044b\u043d\u043a\u0430 \u041f\u0440\u0430\u0442\u0443\u043d\u0430\u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/642823700.webp?k=b7490d80df0bdf38fa14a2470e9b2bab97e4df45c3dc7474c5251cc40bb9d7b7&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/de-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=70&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Dewan Bangkok",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "Phra Nakhon, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "0,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Dewan Bangkok - SHA Certified \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0447\u0430\u0441\u0442\u0438 \u0411\u0430\u043d\u0433\u043a\u043e\u043a\u0430. \u041d\u0430 \u0432\u0441\u0435\u0439 \u0435\u0433\u043e \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi. \u0413\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u0432 \u043d\u043e\u043c\u0435\u0440\u0430\u0445, \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u043d\u044b\u0445 \u0432 \u0430\u0440\u0430\u0431\u0441\u043a\u043e\u043c \u0441\u0442\u0438\u043b\u0435.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/508797910.webp?k=97500cd8399446a86650e648a24a4ecd5665ad5275778d41d7c55fba0550d880&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/dewan-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=71&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Heaven@4",
+    "rating": "N/A",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "5,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Heaven@4 \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 1,2 \u043a\u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Central Embassy. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0430\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/596823768.webp?k=a0801ff7c20f4b87d382c69881f8a5286500082e5f7addb64febb2c1b3c826dd&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/po-heaven-4-the-best-rated-area-in-bangkok.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=72&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Centre Point Plus Hotel Silom - Newly Renovated",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u0411\u0430\u043d\u0433 \u0420\u0430\u043a, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "4,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Centre Point Plus Hotel Silom - Newly Renovated \u0443\u0434\u043e\u0431\u043d\u043e \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043d\u0430\u0434\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0442\u0440\u043e Saphan Taksin. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u0440\u0435\u043a\u0443 \u0427\u0430\u0443\u043f\u0445\u0440\u0430\u044f.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/16060197.webp?k=aaf8071898441e503199dea21989c16c7768f542e23eeb987fb07736e43851ff&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/centre-point-silom.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=73&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "S33 Compact Sukhumvit Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "\u0412\u0430\u0442\u0442\u0430\u043d\u0430, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "7,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "S33 Compact Sukhumvit Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0430\u043d\u0433\u043a\u043e\u043a, \u0432 800 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Emporium. \u0421\u0440\u0435\u0434\u0438 \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u2014 \u0441\u0430\u0434, \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u043d\u0430\u044f \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/651482215.webp?k=7accf45bd41c5514354ee2d1c8f6ce83c4dbf7ba2e0fcd683aea404f1e33f036&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/s33-boutique.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=74&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  },
+  {
+    "name": "Sora Resort & Suites Sukhumvit",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041a\u0445\u043b\u043e\u043d\u0433\u0442\u0435\u0439, \u0411\u0430\u043d\u0433\u043a\u043e\u043a",
+    "distance": "6,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Located in the heart of Bangkok, just 300 meters from Asok BTS and Sukhumvit MRT stations, Sora Resort & Suites (formerly Aspira 12th Avenue) is one of the few city hotels featuring a tropical garden,...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/246223240.webp?k=0a1461de0bdf43675799f248267a55348100d97bbb6046e3225594db2e5a06f6&o=",
+    "hotel_url": "https://www.booking.com/hotel/th/sukhumvit-bangkok-hotel-and-suites.ru.html?aid=304142&label=gen173nr-1FCAQoggJCFXNlYXJjaF_QsdCw0L3Qs9C60L7QukghWARowgGIAQGYASG4ARfIAQzYAQHoAQH4AQOIAgGoAgO4AtW93sEGwAIB0gIkMWNiMGRjYjUtMDBkNy00M2NlLTlkZjUtZDYxNzhmOWYwYmRj2AIF4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=75&sr_order=popularity&srpvid=725ba66ad4c904ac&srepoch=1748475614&from=searchresults"
+  }
+]

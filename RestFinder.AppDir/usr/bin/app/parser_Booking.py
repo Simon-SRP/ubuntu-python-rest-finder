@@ -9,7 +9,7 @@ import json
 import time
 import random
 
-search_query = ('Окинава')
+search_query = ('Торонто')
 
 options = webdriver.ChromeOptions()
 options.add_argument("--headless=new")
@@ -18,7 +18,8 @@ options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--window-size=1920,1080")
 options.add_argument(
-    "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36")
+    "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/90.0.4430.212 Safari/537.36")
 options.add_argument("--disable-blink-features=AutomationControlled")
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 
@@ -64,8 +65,8 @@ for i, hotel in enumerate(hotels, 1):
         'name': 'N/A',
         'rating': 'N/A',
         'address': 'N/A',
-        'distance': 'Окинава - остров, тут нет привязанности к центру города',
-        'description': 'N/A',
+        'distance': 'Неизвестно, насколько далеко этот отель от центра города',
+        'description': 'Описания нет',
         'image_url': 'N/A',
         'hotel_url': 'N/A'
     }
@@ -75,7 +76,8 @@ for i, hotel in enumerate(hotels, 1):
         pass
 
     try:
-        hotels_info['rating'] = hotel.find_element(By.CSS_SELECTOR, 'div[data-testid="review-score"]').text.split('\n')[0]
+        hotels_info['rating'] = hotel.find_element(By.CSS_SELECTOR,
+                                                   'div[data-testid="review-score"]').text.split('\n')[0]
     except:
         pass
 
@@ -86,7 +88,7 @@ for i, hotel in enumerate(hotels, 1):
         pass
 
     try:
-        hotels_info['distance'] = hotel.find_element(By.CSS_SELECTOR, 'snap[data-testid="distance"]').text
+        hotels_info['distance'] = hotel.find_element(By.CSS_SELECTOR, 'span[data-testid="distance"]').text
     except:
         pass
 
@@ -96,12 +98,14 @@ for i, hotel in enumerate(hotels, 1):
         pass
 
     try:
-        hotels_info['image_url'] = hotel.find_element(By.CSS_SELECTOR, 'img[data-testid="image"]').get_attribute('src')
+        hotels_info['image_url'] = hotel.find_element(By.CSS_SELECTOR,
+                                                      'img[data-testid="image"]').get_attribute('src')
     except:
         pass
 
     try:
-        hotels_info['hotel_url'] = hotel.find_element(By.CSS_SELECTOR, 'a[data-testid="title-link"]').get_attribute('href')
+        hotels_info['hotel_url'] = hotel.find_element(By.CSS_SELECTOR,
+                                                      'a[data-testid="title-link"]').get_attribute('href')
     except:
         pass
 

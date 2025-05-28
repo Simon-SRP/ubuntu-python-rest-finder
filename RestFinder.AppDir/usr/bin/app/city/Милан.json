@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Hotel Dei Cavalieri Milano Duomo",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "350 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Dei Cavalieri \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0437\u0434\u0430\u043d\u0438\u0438, \u0432\u0441\u0435\u0433\u043e \u0432 250 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430, \u043d\u0430\u043f\u0440\u043e\u0442\u0438\u0432 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Missori.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/486086448.webp?k=c6cedcf1ac059f8a75c26eb835efe4815f9ed36f62f37070bc15d785aac91dd5&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/deicavalierimilano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "iQ Hotel Milano",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "IQ Hotel Milano \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043e\u0431\u0449\u0438\u0439 \u043b\u0430\u0443\u043d\u0434\u0436, \u0442\u0435\u0440\u0440\u0430\u0441\u0430, \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0438 \u0431\u0430\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/223579445.webp?k=eb28d5b70f78c8039d389e140675ca8b568a4be9cf500c1e5706c56c498ede0b&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/iq-hotel-milano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "INTOMILAN Galleria Duomo I Boutique & Design Aparthotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "INTOMILAN Galleria Duomo I Boutique & Design Aparthotel \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 300 \u043c \u0438 700 \u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u0421\u0442\u0430\u043d\u0446\u0438\u044f...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/242991545.webp?k=5c4ddd91ee79f0dce785aa5ae83c1e31a8af11dd4406f28a5cc883c9cdd45c33&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/into-the-heart-of-milan-aparthotel.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "NYX Hotel Milan by Leonardo Hotels",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c NYX Milan by Leonardo Hotels \u0441 \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u043c \u0441\u0430\u0434\u043e\u043c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u041c\u0438\u043b\u0430\u043d\u0435, \u0432 3 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u0438 \u0432 1,5 \u043a\u043c \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u041a\u0432\u0430\u0440\u0442\u0430\u043b\u0430 \u043c\u043e\u0434\u044b.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/385589931.webp?k=e212d2495c323a34cf7a2e54e338482b237991d7a0b922951e83cf300f88aa49&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/nyx-milan.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Castello Guest House Milano",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0413\u043e\u0441\u0442\u0435\u0432\u043e\u0439 \u0434\u043e\u043c Castello \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u043f\u0430\u0440\u043a\u0430 \u0421\u0435\u043c\u043f\u0438\u043e\u043d\u0435. \u0418\u0437 \u0433\u043e\u0441\u0442\u0435\u0432\u043e\u0433\u043e \u0434\u043e\u043c\u0430 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u043f\u043b\u043e\u0449\u0430\u0434\u044c \u041f\u044c\u044f\u0446\u0446\u0430-\u041a\u0430\u0441\u0442\u0435\u043b\u043b\u043e. \u041d\u043e\u043c\u0435\u0440\u0430 \u043e\u0441\u043d\u0430\u0449\u0435\u043d\u044b \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u043e\u0440\u043e\u043c \u0441 \u043f\u043b\u043e\u0441\u043a\u0438\u043c \u044d\u043a\u0440\u0430\u043d\u043e\u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/392650175.webp?k=66e84424e8fe4eb8721ddd8a8e9a8504bab3c2880911ad1994dfa667de3f557a&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/castello-guest-house.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Worldhotel Cristoforo Colombo",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Worldhotel Cristoforo Colombo \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d, \u0432 700 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a GAM Milano. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440, \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0438 \u0431\u0430\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/507390977.webp?k=7db333cd1b94dcfdd39341bdc7f5a3d5610398e714726f8b134d572496e028c0&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/worldhotel-cristoforo-colombo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Hotel Repubblica",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Hotel Repubblica \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 Central Station Area \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 1,1 \u043a\u043c \u0438 1,2 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u0416\u0438\u043b\u043e\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u00ab\u0412\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/357494529.webp?k=778af11619b55e10b2e9ccdb5f494fcc3ea6118e00831660e24c36acf6afdd0c&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/repubblica-milano1.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "B and G San Babila- Luxury in the heart of Milano - Design district",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,5",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "B and G San Babila- Luxury in the heart of Milano - Design district \u2014 \u044d\u0442\u043e \u0433\u043e\u0441\u0442\u0435\u0432\u043e\u0439 \u0434\u043e\u043c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 300 \u043c \u0438 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0412\u0438\u043b\u043b\u0430...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/520316507.webp?k=0ca26aad632347801289e33ebe5c818b90ccece1a7564c40bf24d457e4bd9c46&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/b-amp-g-sanbabila.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hotel Gran Duca Di York",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "300 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u043d\u044b\u0439 \u0432 \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u0441\u0442\u0438\u043b\u0435 \u043e\u0442\u0435\u043b\u044c Gran Duca Di York \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u043f\u0430\u043b\u0430\u0446\u0446\u043e XVIII \u0432\u0435\u043a\u0430 \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430. \u0424\u043e\u0439\u0435 \u043e\u0442\u0435\u043b\u044f \u0443\u043a\u0440\u0430\u0448\u0430\u044e\u0442 \u0441\u0442\u0430\u0440\u0438\u043d\u043d\u044b\u0435 \u0444\u0440\u0435\u0441\u043a\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/523805727.webp?k=d05f8a68bf4994cebe0723dd42a96f6eed0d9af02bf803db921091823e5c5280&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/gran-duca-di-york.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Sospeso Boutique Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Sospeso Boutique Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u043d\u0430 \u0432\u0441\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u0433\u043e\u0440\u043e\u0434.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/452812358.webp?k=a30a3d37b23ac309917033757ae218d0f155abddb67ca37af6b4f9516626e52f&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/sospeso-boutique.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hotel Milano Castello",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "450 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Milano Castello \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432\u0441\u0435\u0433\u043e \u0432 250 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Cairoli. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0441\u0430\u0434 \u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430, \u0432 \u043d\u043e\u043c\u0435\u0440\u0430\u0445 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/213875037.webp?k=0f13aecd08ea93f65daa8b0d155a3aa1eacb93e79367946bd4fc45bfadec438b&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/milano-castello.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hotel La Madonnina",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,1",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "150 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c La Madonnina \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0448\u0430\u0433\u0430\u0445 \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430 \u0438 \u0432 2 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Duomo.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/209787391.webp?k=b0a18661a1067c27e313771c6a9ec6941943a9dbd443b909a04cab57962ff103&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/la-madonnina-milano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hotel Milano Scala",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043e\u0442\u0435\u043b\u044c \u0441 \u00ab\u043d\u0443\u043b\u0435\u0432\u044b\u043c \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0432\u044b\u0431\u0440\u043e\u0441\u043e\u0432\u00bb \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u0432 \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0411\u0440\u0435\u0440\u0430. \u0414\u043e \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430 \u043c\u043e\u0436\u043d\u043e \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0437\u0430 10 \u043c\u0438\u043d\u0443\u0442.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/216839156.webp?k=01b936138b5b4e44edab1fadeae4a896bf9592c01f748e818c1579ff0de4bb4d&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/milano-scala.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Ibis Milano Centro",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,8",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Ibis Milan Centro offers free WiFi and air-conditioned and soundproofed rooms, 350 metres from Repubblica Train and Metro Station. Milan Central Train Station is 15 minutes' walk away.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/218517191.webp?k=f7d48fdba8b65959d0b689bb5b549bc27a56325eea7f297513e1d49881cc0851&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/ibismilanocentromilano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Bed Milano Linate",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,2",
+    "address": "\u041f\u043e\u0440\u0442\u0430-\u0412\u0438\u0442\u0442\u043e\u0440\u0438\u044f, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "3,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0413\u043e\u0441\u0442\u0435\u0432\u043e\u0439 \u0434\u043e\u043c Bed Milano Linate \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u041c\u0438\u043b\u0430\u043d\u0435, \u0432 500 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u0424\u043e\u0440\u043b\u0430\u043d\u0438\u043d\u0438, \u043e\u0442\u043a\u0443\u0434\u0430 \u043c\u043e\u0436\u043d\u043e \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0434\u043e \u0446\u0435\u043d\u0442\u0440\u0430 \u0433\u043e\u0440\u043e\u0434\u0430 \u0438 \u0432\u044b\u0441\u0442\u0430\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430 RhoFiera.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/61896700.webp?k=451b95f78617133412076a34067bef5f603c4472165f82970ab13741266568b6&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/bed-milano-linate.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Heart Milan Apartments Duomo Missori",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,6",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "300 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Heart Milan Apartments Duomo Missori \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d. \u041c\u0443\u0437\u0435\u0439 \u041d\u043e\u0432\u0435\u0447\u0435\u043d\u0442\u043e \u0438 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 300 \u043c \u0438 400 \u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e. \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e San Babila \u2014 \u0432 1,1 \u043a\u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/589042134.webp?k=ab4bebb05589cf55182b1bc3c8d5c53299b876fa80a5211b8f00c25e20058923&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/heart-milan-apartments-duomo-missori-milano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "The Street Milano Duomo | a Design Boutique Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "250 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0414\u0438\u0437\u0430\u0439\u043d\u0435\u0440\u0441\u043a\u0438\u0439 \u0431\u0443\u0442\u0438\u043a-\u043e\u0442\u0435\u043b\u044c The Street Milano Duomo \u0441 \u043c\u0435\u0431\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0442\u0435\u0440\u0440\u0430\u0441\u043e\u0439 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0448\u0430\u0433\u0430\u0445 \u043e\u0442 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430 Galleria Vittorio Emanuele \u0438 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/269739735.webp?k=e08213e79601265bf849a813ab5164e1e1add3943ef2779865514351a2bc447c&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/the-street-milano-duomo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Doria Grand Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,3",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0413\u0440\u0430\u043d\u0434-\u043e\u0442\u0435\u043b\u044c Doria \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0439 \u0443\u043b\u0438\u0446\u044b \u041a\u043e\u0440\u0441\u043e \u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 \u0438 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u041c\u0438\u043b\u0430\u043d\u0430. \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e Loreto \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0430 \u0432 450 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u043e\u0442\u0435\u043b\u044f.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/47790337.webp?k=022e7d5b092a11ca5b3ed004ba4a2945b44b171a0bc916b153dca9793eea8b7e&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/doriagrand.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Montenapoleone Suites",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 Montenapoleone Suites \u0441 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c\u0438 \u043b\u044e\u043a\u0441\u0430\u043c\u0438 \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u043b\u0441\u044f \u0432 \u0438\u0437\u044b\u0441\u043a\u0430\u043d\u043d\u043e\u043c \u0438 \u0440\u043e\u0441\u043a\u043e\u0448\u043d\u043e\u043c \u0437\u0434\u0430\u043d\u0438\u0438 \u0432 \u041c\u0438\u043b\u0430\u043d\u0435, \u0432 300 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0443\u043b\u0438\u0446\u044b \u0412\u0438\u0430-\u041c\u043e\u043d\u0442\u0435\u043d\u0430\u043f\u043e\u043b\u0435\u043e\u043d\u0435 \u0438 \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/386022458.webp?k=0670a72d45673d26998b959cd4107d497c1880f5b8b91d12ff63d01aee30a4e4&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/montenapoleone-suite.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "The Corner Duomo Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "400 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c The Corner Duomo \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 3 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430 \u0438 \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0448\u0430\u0433\u0430\u0445 \u043e\u0442 \u043e\u043f\u0435\u0440\u043d\u043e\u0433\u043e \u0442\u0435\u0430\u0442\u0440\u0430 \u00ab\u041b\u0430 \u0421\u043a\u0430\u043b\u0430\u00bb \u0438 \u0443\u043b\u0438\u0446\u044b \u0412\u0438\u0430 \u041c\u043e\u043d\u0442\u0435\u043d\u0430\u043f\u043e\u043b\u0435\u043e\u043d\u0435.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/271226455.webp?k=9c51863649a0eb82e9762c82480419b363356ecba5d31c1973f87aa6674a641c&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/the-corner-duomo-milano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Sonder Manzoni",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,0",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Sonder Manzoni \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d. \u041c\u0443\u0437\u0435\u0439 \u041d\u043e\u0432\u0435\u0447\u0435\u043d\u0442\u043e \u0438 Porta Romana Metro Station \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 700 \u043c \u0438 1,1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e. \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446 \u2014 \u0432 600 \u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/603881870.webp?k=29fb67d9ca303127e6b7cf2c0370db1f6b5e5cecb3a2298c310efc14c7f9a153&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/sonder-manzoni.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "The Unique Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "The Unique Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 700 \u043c \u0438 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u041e\u043f\u0435\u0440\u043d\u044b\u0439 \u0442\u0435\u0430\u0442\u0440 \u00ab\u041b\u0430 \u0421\u043a\u0430\u043b\u0430\u00bb...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/594656273.webp?k=411216b4612482fa259dd7edec55b7abc2463b166acdb40927a8cd47246d43a0&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/the-unique-milano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Be Mate Via Tivoli",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,2",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Be Mate Via Tivoli \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 500 \u043c \u0438 1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u0417\u0430\u043c\u043e\u043a \u0421\u0444\u043e\u0440\u0446\u0430 \u0438 \u0426\u0435\u0440\u043a\u043e\u0432\u044c...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/219644725.webp?k=82a57b5cc3f4d969a67eeba1458ce86353605a6ebbaf5038b6087d645839a629&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/be-mate-mil-t4.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hotel Roxy",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,8",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Roxy \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u041c\u0438\u043b\u0430\u043d\u0435 \u0432 350 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Porta Venezia.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/177599905.webp?k=c3036a1c4fbcfdbbc63e4c6baadaee1c5c2ca7de85148e1ca6d1d17861772f4e&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/hotelroxy.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "BB Hotels Smarthotel Duomo",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "200 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "BB Hotels Smarthotel Duomo \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0441 4 \u0437\u0432\u0435\u0437\u0434\u0430\u043c\u0438 \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d. \u0413\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/400950134.webp?k=b0e5a6fe53914e1e524c5e3a47d5d606e5767d3c8ad97af024dd5a88a4c2ae3f&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/bb-hotels-smarthotel-duomo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "APARTHOTEL CASA MIA",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,2",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "APARTHOTEL CASA MIA \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d, \u0432 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0438 900 \u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e Centrale \u0438 GAM Milano.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/198721947.webp?k=bfb5c0c4c7262fcfc96c47a04f99ec4ddef5ab613649f97063475aeba12e2156&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/aparthotel-casa-mia.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Missori Luxury Apartments",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,2",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Missori Luxury Apartments \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0438 1,5 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041c\u0443\u0437\u0435\u0439 \u041d\u043e\u0432\u0435\u0447\u0435\u043d\u0442\u043e \u0438 \u0420\u0430\u0439\u043e\u043d \u0414\u0430\u0440\u0441\u0435\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/649308353.webp?k=3df01e8ea3a3e42ea2ada9b025e8c297b517c7d49c52ec47e8d18aa65c7b72b2&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/missori-luxury-apartments.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Milan Downtown Apartments",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Milan Downtown Apartments \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d. \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446 \u0438 \u0412\u0438\u043b\u043b\u0430 \u041d\u0435\u043a\u043a\u0438-\u041a\u0430\u043c\u043f\u0438\u043b\u044c\u043e \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 400 \u043c \u0438 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e. \u041c\u0443\u0437\u0435\u0439 \u041d\u043e\u0432\u0435\u0447\u0435\u043d\u0442\u043e \u2014 \u0432 600 \u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/347838320.webp?k=d90c5bed66ff7daaad1267c9bff96db1223dd196464e89eb7a28ce274bebbc8b&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/milano-cozy-apartment-milano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Milan Royal Suites - Centro Duomo",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0410\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b Milan Royal Suites Duomo \u0441 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043a\u0443\u0445\u043d\u0435\u0439 \u0438 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u043c \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 \u041c\u0438\u043b\u0430\u043d\u0435. \u041e\u0442 \u044d\u0442\u0438\u0445 \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u043e\u0432 300 \u043c\u0435\u0442\u0440\u043e\u0432 \u0434\u043e \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Montenapoleone \u0438 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0435\u0437\u0434\u044b \u0434\u043e \u0442\u0435\u0430\u0442\u0440\u0430 \u041b\u0430-\u0421\u043a\u0430\u043b\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/263942614.webp?k=ff52846f1863dd36600caa51b5e4d0b23951ddae450b44287f4d918f450ce203&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/milan-royal-suites-duomo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "The Unique Brera",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0413\u043e\u0441\u0442\u0435\u0432\u043e\u0439 \u0434\u043e\u043c Unique \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u041c\u0438\u043b\u0430\u043d\u0435, \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0411\u0440\u0435\u0440\u0430, \u0432 500 \u043c \u043e\u0442 \u0437\u0430\u043c\u043a\u0430 \u0421\u0444\u043e\u0440\u0446\u0430 \u0438 \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0442\u0435\u0430\u0442\u0440\u0430 \u041b\u0430 \u0421\u043a\u0430\u043b\u0430, \u0433\u0430\u043b\u0435\u0440\u0435\u0438 \u0412\u0438\u043a\u0442\u043e\u0440\u0430 \u042d\u043c\u043c\u0430\u043d\u0443\u0438\u043b\u0430 \u0438 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/331516234.webp?k=fae35f452a61f237a8be724f08627525979768050ab208bfdfc2745f84f8e020&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/the-unique.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Sheva Boutique Hotel",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,8",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "150 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Sheva Boutique Hotel \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 300 \u043c \u0438 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446 \u0438 \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e San Babila.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/369170131.webp?k=795e26ec8599084df14ad0a9a1e23e270cac6a7bf53b4b1d00f2bd47e9783865&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/sheva-boutique.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Agave in Centrale",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,6",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "3 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Agave in Centrale \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 600 \u043c \u0438 1,4 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e Centrale \u0438 \u0416\u0438\u043b\u043e\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u00ab\u0412\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/654178247.webp?k=ef1373bf1fb828d8268b375e12a8f31168300e3f36179466918b10f467b3729f&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/agave-in-centrale.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "AXYHOTELS InnStyle Milano",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,4",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c AXYHOTELS InnStyle Milano \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u0432\u0441\u0435\u0433\u043e \u0432 50 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0439 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0439 \u0443\u043b\u0438\u0446\u044b \u041a\u043e\u0440\u0441\u043e \u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/509506702.webp?k=58fb36b0eadd85bc977fa0c13840853ff7f0cba148c3a16414f745fd0f67fe94&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/axyhotels-innstyle-milano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Visconti Suites - Luca Stay",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,5",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Visconti Suites - Luca Stay \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d. \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446 \u0438 \u041c\u0443\u0437\u0435\u0439 \u041d\u043e\u0432\u0435\u0447\u0435\u043d\u0442\u043e \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0438 1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e. \u0412\u0438\u043b\u043b\u0430 \u041d\u0435\u043a\u043a\u0438-\u041a\u0430\u043c\u043f\u0438\u043b\u044c\u043e \u2014 \u0432 500 \u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/609281791.webp?k=97e4ed009a3f2297aa4860049408b652266b5a5c9190c3297f039fe4b8bd6b2c&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/visconti-suites-luca-real-estate.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Comfortable Two-room Certosa 20 minutes from Duomo",
+    "rating": "N/A",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "450 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Comfortable Two-room Certosa 20 minutes from Duomo \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043d\u0435\u043f\u043e\u0434\u0430\u043b\u0435\u043a\u0443 \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u041c\u0443\u0437\u0435\u0439 \u041d\u043e\u0432\u0435\u0447\u0435\u043d\u0442\u043e.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/686102707.webp?k=df1af699fedd4c383f90e05cfab970ec0b71cc9a4ed62649e4d6c449403c6e10&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/comfortable-two-room-certosa-20-minutes-from-duomo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Suite Santa Tecla",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "400 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Suite Santa Tecla \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 500 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430 \u0438 200 \u043c \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438: \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/518850175.webp?k=c5042b51d2bee92306bb840fa5ffc0cf7024d34d96df66847395e868484bcb3c&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/suite-santa-tecla.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Senato Hotel Milano",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,7",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Senato Milano \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0437\u0434\u0430\u043d\u0438\u0438 \u043d\u0430\u0447\u0430\u043b\u0430 XX \u0432\u0435\u043a\u0430 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0444\u0438\u0442\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440 \u0438 \u043b\u0430\u0443\u043d\u0434\u0436-\u0431\u0430\u0440 \u0441 \u0432\u0438\u0434\u043e\u043c \u0432\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0434\u0432\u043e\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/562798428.webp?k=9fc6690c31c768a701930e22c73ffaab7cab2ab0db12cdc754dbca6a5e858c95&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/senato-milano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Apartment in Lausanne 25",
+    "rating": "N/A",
+    "address": "\u0421\u0435\u043c\u043f\u0438\u043e\u043d\u0435, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "3,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Apartment in Lausanne 25 \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d, \u0432 1,3 \u043a\u043c \u0438 1,6 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 CityLife \u0438 \u0422\u043e\u0440\u0433\u043e\u0432\u043e-\u0432\u044b\u0441\u0442\u0430\u0432\u043e\u0447\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 Fiera Milano City.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/687314787.webp?k=b4865b043e619110ec0a61412be59e3046fc518d250c847843f3f554bb124ddf&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/apartment-in-lausanne-25.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Hotel Soperga",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "3,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Soperga \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 600 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u041c\u0438\u043b\u0430\u043d\u0430 \u0438 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Loreto. \u041f\u043e\u0431\u043b\u0438\u0437\u043e\u0441\u0442\u0438 \u043d\u0430\u043b\u0430\u0436\u0435\u043d\u043e \u0445\u043e\u0440\u043e\u0448\u0435\u0435 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/87589650.webp?k=b76aa8a1fc5b6b69a7690b2faacdea7507f609192a07d6168fdf790f217e666d&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/soperga.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Savona 18 Suites",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,9",
+    "address": "\u041d\u0430\u0432\u0438\u043b\u044c\u0438, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Savona 18 Suites \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u043c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u041d\u0430\u0432\u0438\u043b\u044c\u0438, \u0432 800 \u043c \u043e\u0442 \u041c\u0443\u0437\u0435\u044f \u043a\u0443\u043b\u044c\u0442\u0443\u0440 MUDEC \u0438 \u0432 900 \u043c \u043e\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u0443\u0430\u0440\u0430 \u0414\u0430\u0440\u0441\u0435\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/578854289.webp?k=c5112e83b122a37835e5314b82a2c5016626e208bfd6a280c2f6e11489799a3e&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/savona-18-suites.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Sina De La Ville",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "300 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Sina De La Ville \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 350 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0442\u0435\u0440\u0440\u0430\u0441\u0430 \u0434\u043b\u044f \u0437\u0430\u0433\u0430\u0440\u0430 \u043d\u0430 \u043a\u0440\u044b\u0448\u0435 \u0441 \u0433\u0438\u0434\u0440\u043e\u043c\u0430\u0441\u0441\u0430\u0436\u043d\u043e\u0439 \u0432\u0430\u043d\u043d\u043e\u0439, \u043e\u0442\u043a\u0440\u044b\u0442\u0430\u044f \u043b\u0435\u0442\u043e\u043c \u0438 \u043a\u0440\u044b\u0442\u0430\u044f \u0437\u0438\u043c\u043e\u0439.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/228109255.webp?k=2f28ede81fbad2a8512a53be97b28354fbdefe05674396a3a3653be086ea25a0&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/sina-de-la-ville.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Hotel Spadari Al Duomo",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,4",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "150 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Spadari \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432\u0441\u0435\u0433\u043e \u0432 150 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0421\u043e\u0431\u043e\u0440\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u0438 \u043a\u0430\u0444\u0435\u0434\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430. \u0412 \u0434\u0438\u0437\u0430\u0439\u043d\u0435 \u0441\u043e\u0447\u0435\u0442\u0430\u044e\u0442\u0441\u044f \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430 \u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u0443\u0434\u043e\u0431\u0441\u0442\u0432\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/91554460.webp?k=01487c63b89a0cab0107ccdf4c7a195bb6b5f312ab57d9e4c5f78e90e4608bc5&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/spadari-al-duomo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Heart Hotel Milano",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u0412\u043e\u043a\u0437\u0430\u043b \u041f\u043e\u0440\u0442\u0430 \u0413\u0430\u0440\u0438\u0431\u0430\u043b\u044c\u0434\u0438, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Heart Milano \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u0432 500 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0440\u0430\u0439\u043e\u043d\u0430 \u0411\u0440\u0435\u0440\u0430 \u0438 \u0432 200 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Repubblica, \u043e\u0442\u043a\u0443\u0434\u0430 \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u0441\u0442\u0440\u043e \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0434\u043e \u0432\u044b\u0441\u0442\u0430\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/304037259.webp?k=cab30f653a585da82e895bd30dcb31709b2978a0a134b1a86b63c9f7c94001ed&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/cervo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Galleria Vik Milano - Townhouse Galleria - Small Luxury Hotels of the World",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "150 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Welcome to Galleria Vik Milano \u2013 Townhouse Galleria where we offer our guests: \u2022 Historical Monument Living: Galleria Vik Milano is within one of Italy\u2019s most iconic landmarks.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/244919509.webp?k=e519ee9e992785a98718a3d05f1d507e3108e03ea5be36fc571bcc6db5e5e6af&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/town-house-galleria.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Hotel Regina",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,9 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Offering elegant air-conditioned rooms with free Wi-Fi, Hotel Regina boasts an ideal location 500 metres from Sant'Ambrogio Basilica. Milan Cathedral is a 10-minute walk away.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/431108417.webp?k=39b642df4f75fbcbd3cf08611471685000c347774b834b659f5e53b2a2ea32f7&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/hotelregina.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Urban Hive Milano",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,2",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Urban Hive Milano \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435 \u0411\u0440\u0435\u0440\u0430 \u0432 \u041c\u0438\u043b\u0430\u043d\u0435, \u0432 15 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u043c \u0438 \u043a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u0430\u044f \u0441\u0442\u043e\u0439\u043a\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/524854025.webp?k=6faf5475a8374cbe6573a8548e5cf6024abf3e23f838363b6cefd3646b9f48a9&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/carlyle.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "ComeCasa Beautiful Santa Sofia",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "ComeCasa Beautiful Santa Sofia \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d. \u041c\u0443\u0437\u0435\u0439 \u041d\u043e\u0432\u0435\u0447\u0435\u043d\u0442\u043e \u0438 Porta Romana Metro Station \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0438 1,1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e. \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446 \u2014 \u0432 700 \u043c....",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/503480282.webp?k=dbcace3a3cb3610960f95fb153626c6376ba0eb449e53ba0312612d8e966a7a2&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/beautiful-apartment-santa-sofia.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=47&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Binario Verticale",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,0",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Binario Verticale \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d \u0440\u044f\u0434\u043e\u043c \u0441\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c\u0438 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044f\u043c\u0438: \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e Centrale, \u0416\u0438\u043b\u043e\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u00ab\u0412\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u043b\u0435\u0441\u00bb \u0438 GAM Milano.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/548715162.webp?k=755d66647102e5d009336f70abdfcfa652c20e28636496d95c3e805e339f300c&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/binario-verticale.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=48&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Heart Milan Apartments San Sepolcro Duomo",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,4",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "250 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0420\u043e\u0441\u043a\u043e\u0448\u043d\u044b\u0435 \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b Heart Milan San Sepolcro Duomo \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u043d\u0435\u0434\u0430\u043b\u0435\u043a\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u041a\u0430\u0444\u0435\u0434\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u043e\u0431\u043e\u0440 \u0438 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/257436913.webp?k=51c173c85cc5531771e05fbe82dbcf95fdb49b6f2d7596e26a4f59c5627f4464&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/heart-milan-apartments-san-sepolcro-duomo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=49&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Aparthotel Meneghino",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,7",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0410\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u044c Meneghino \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u041c\u0438\u043b\u0430\u043d\u0435, \u0432 1,3 \u043a\u043c \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0441 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u043c. \u0420\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0434\u043e \u041a\u0432\u0430\u0440\u0442\u0430\u043b\u0430 \u043c\u043e\u0434\u044b \u0442\u0430\u043a\u0436\u0435 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 1,3 \u043a\u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/271142073.webp?k=5a36a3921a0488b829ff2a8a66e9981f9dddbd5b11eee1ee7bf4917a2fc63847&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/apart-meneghino.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=50&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474986&from=searchresults"
+  },
+  {
+    "name": "Milano Ticinese Guest House",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,4",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Milano Ticinese Guest House \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi \u043d\u0430 \u0432\u0441\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438. \u0418\u0437 \u043e\u043a\u043e\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u0433\u043e\u0440\u043e\u0434.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/600736835.webp?k=a47ee142f6e26449f49125e6a0946b72fccf028d2e24b0f434403451bfaa9aec&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/milano-ticinese-guest-house.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=51&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Starhotels Echo",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,7 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u0442\u043e\u0442 \u044d\u043a\u043e-\u043e\u0442\u0435\u043b\u044c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432\u0441\u0435\u0433\u043e \u0432 200 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u041c\u0438\u043b\u0430\u043d\u0430. \u041d\u0430 \u0432\u0441\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u043e\u0442\u0435\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/521293583.webp?k=409e6a5527e15502b80b83427658ba6606838bb43b985d280a968f7bf4b8e4be&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/starhotels-echo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=52&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Schiaparelli 4",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,7",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "3,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Schiaparelli 4 \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0441 \u0431\u0430\u043b\u043a\u043e\u043d\u043e\u043c \u0438 \u0432\u0438\u0434\u043e\u043c \u043d\u0430 \u0433\u043e\u0440\u043e\u0434 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d \u0440\u0435\u0433\u0438\u043e\u043d\u0430 \u041b\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u044f. \u0416\u0438\u043b\u044c\u0435 \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u0432 700 \u043c \u043e\u0442 \u0442\u0430\u043a\u043e\u0439 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043a\u0430\u043a \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e Centrale.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/446942492.webp?k=7487066b16f2ab15f93a7cc5e0be5a0fc88e0cec5d526a23bd8535511606f585&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/schiaparelli-4.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=53&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hotel The Square Milano Duomo - Preferred Hotels & Resorts",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "400 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Square Milano Duomo \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0437\u0434\u0430\u043d\u0438\u0438, \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430, \u043e\u043f\u0435\u0440\u043d\u043e\u0433\u043e \u0442\u0435\u0430\u0442\u0440\u0430 \u041b\u0430 \u0421\u043a\u0430\u043b\u0430 \u0438 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430 \u0412\u0438\u0442\u0442\u043e\u0440\u0438\u043e \u042d\u043c\u0430\u043d\u0443\u044d\u043b\u0435.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/488162637.webp?k=13aeb6114f5a5821536617e347e5fd255704b0f666a37354368c8c2dac363e3a&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/the-square-milano-duomo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=54&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hotel Manin",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,5",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Manin \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u043e\u043f\u0435\u0440\u043d\u043e\u0433\u043e \u0442\u0435\u0430\u0442\u0440\u0430 \u041b\u0430 \u0421\u043a\u0430\u043b\u0430 \u0438 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u043a\u0430\u0444\u0435\u0434\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430. \u0418\u0437 \u043e\u0442\u0435\u043b\u044f \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 \u0432\u0438\u0434 \u043d\u0430 \u043f\u0430\u0440\u043a \u0438\u043c. \u0418\u043d\u0434\u0440\u043e \u041c\u043e\u043d\u0442\u0430\u043d\u0435\u043b\u043b\u0438.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/63484378.webp?k=e7aef5f33ab4a0aac75e49063320201098458ed17e134a4daf1acde5bace4b6c&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/gthotelmanin.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=55&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Porta 92 Romana",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Porta 92 Romana \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d. Porta Romana Metro Station \u0438 \u041c\u0443\u0437\u0435\u0439 \u041d\u043e\u0432\u0435\u0447\u0435\u043d\u0442\u043e \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 800 \u043c \u0438 1,1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e. \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446 \u2014 \u0432 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/371090903.webp?k=faaa12ef39fdb637ec7413fa9fc20c3a007182fa244c74a9889d206095359957&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/piazza-della-scala-3.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=56&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Milan Retreats Cadorna Duomo",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,2",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Milan Retreats Cadorna Duomo \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d. \u0426\u0435\u0440\u043a\u043e\u0432\u044c \u0421\u0430\u043d-\u041c\u0430\u0443\u0440\u0438\u0446\u0438\u043e-\u0430\u043b\u044c-\u041c\u043e\u043d\u0430\u0441\u0442\u0435\u0440\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435 \u0438 \u0426\u0435\u0440\u043a\u043e\u0432\u044c \u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0438\u044f-\u0434\u0435\u043b\u043b\u0435-\u0413\u0440\u0430\u0446\u0438\u0435 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u0432 500 \u043c \u0438 500 \u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/683472368.webp?k=4d3496adeadc83271045b81a3502bbda97041e118a42a5b4f6caf4b5adcdc958&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/heart-apartments-montenapoleone-district.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=57&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Milan Retreats Duomo",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,2",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "250 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Milan Retreats Duomo \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u0432 800 \u043c \u0438 400 \u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u0426\u0435\u0440\u043a\u043e\u0432\u044c \u0421\u0430\u043d-\u041c\u0430\u0443\u0440\u0438\u0446\u0438\u043e-\u0430\u043b\u044c-\u041c\u043e\u043d\u0430\u0441\u0442\u0435\u0440\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435 \u0438 \u041c\u0443\u0437\u0435\u0439...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/683471475.webp?k=3256563f78d2a5b9c5a53b53c6f64fed54887b43af003b3a097469a7406bbfea&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/myhomefeelin-duomo.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=58&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Rosa Grand Milano - Starhotels Collezione",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "400 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Rosa Grand Milano - Starhotels Collezione \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u0432 2 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430. \u0418\u0437 \u043e\u0442\u0435\u043b\u044f \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0434 \u043d\u0430 \u043f\u043b\u043e\u0449\u0430\u0434\u044c \u041f\u044c\u044f\u0446\u0446\u0430-\u0424\u043e\u043d\u0442\u0430\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/323606941.webp?k=94096cd31672647a4c2ff95ef9fe9d9b3789090cb63861c4c44ae1fe77374fff&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/starhotels-rosa.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=59&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Windsor Hotel Milano",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "1,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Windsor \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u041c\u0438\u043b\u0430\u043d\u0435, \u0440\u044f\u0434\u043e\u043c \u0441\u043e \u0441\u0442\u0430\u043d\u0446\u0438\u0435\u0439 \u043c\u0435\u0442\u0440\u043e Repubblica \u0438 \u0432 10 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0435\u0437\u0434\u044b \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430. \u041d\u0430 \u0432\u0441\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u043e\u0442\u0435\u043b\u044f \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/95456408.webp?k=c24562c5dd513fc84e43bd83cb814e8b7b1cd41e0fda9b86e4fbd5e316e7e14a&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/windsor.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=60&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Napo29",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,4",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Napo29 \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0441 \u0431\u0430\u043b\u043a\u043e\u043d\u043e\u043c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d, \u0432\u0441\u0435\u0433\u043e \u043b\u0438\u0448\u044c \u0432 200 \u043c \u0438 1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e Centrale \u0438 \u0416\u0438\u043b\u043e\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u00ab\u0412\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u043b\u0435\u0441\u00bb.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/530416806.webp?k=fe560097f14aa6b8626af2c87c7fdfaed1ff551ee144d11a993d431f21ce1fd7&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/napo29.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=61&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "BC MAISON bed&cafe Milano",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "250 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c \u0442\u0438\u043f\u0430 \u00ab\u043f\u043e\u0441\u0442\u0435\u043b\u044c \u0438 \u0437\u0430\u0432\u0442\u0440\u0430\u043a\u00bb BC MAISON bed&cafe Milano \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u041c\u0438\u043b\u0430\u043d\u0435. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u043d\u043e\u043c\u0435\u0440\u0430 \u0441 \u0431\u0430\u043b\u043a\u043e\u043d\u043e\u043c \u0438\u043b\u0438 \u043f\u0430\u0442\u0438\u043e, \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi \u0438 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u043c.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/173966897.webp?k=b245633f52f3c84c79d9cf7aff1e9b6338f846c2746b59a65c67d5d54d4e0629&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/bc-maison.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=62&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Radisson Collection Hotel, Palazzo Touring Club Milan",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Radisson Collection Hotel, Palazzo Touring Club Milan \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0441\u0430\u0434, \u0442\u0435\u0440\u0440\u0430\u0441\u0430, \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0438 \u0431\u0430\u0440.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/429879070.webp?k=c642d5c314cee2c3e42ee9a021653fbc1b7b4e5370c06ea146c9b1bf85288901&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/radisson-collection-palazzo-touring-club.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=63&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Milan Retreats Duomo Carrobbio",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,2",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Milan Retreats Duomo Carrobbio \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0438\u043b\u0430\u043d, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0438 700 \u043c \u0438 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u0426\u0435\u0440\u043a\u043e\u0432\u044c...",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/683470261.webp?k=e377a57eacda670b05da0b9e6e0c1fa81496cd3b59735cdb1b2098e37597f3a3&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/milan-retreats-duomo-brera.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=64&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Residence De La Gare",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,3",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0441\u0442\u0430\u0440\u0438\u043d\u043d\u043e\u043c \u0434\u0432\u043e\u0440\u0446\u0435. \u041a \u0443\u0441\u043b\u0443\u0433\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u044d\u043b\u0435\u0433\u0430\u043d\u0442\u043d\u044b\u0435 \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/53893821.webp?k=b98cef0f53647aa9f5cd30ace0e17a60e29ea967dde9dde48bd396c891290234&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/residence-de-la-gare.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=65&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Brera Prestige B&B",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,5",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,8 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c \u0442\u0438\u043f\u0430 \u00ab\u043f\u043e\u0441\u0442\u0435\u043b\u044c \u0438 \u0437\u0430\u0432\u0442\u0440\u0430\u043a\u00bb Brera Prestige \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u0432 250 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0437\u0430\u043c\u043a\u0430 \u0421\u0444\u043e\u0440\u0446\u0430 \u0438 \u043e\u0442 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Lanza. \u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Wi-Fi.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/53139857.webp?k=a9c851953da6c5d78c36a48c6c10d844e03430cceec2b7e0ba23168f61b5414e&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/brera-prestige-b-amp-b-milano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=66&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hotel Charly",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,6",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Charly \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0442\u0438\u0445\u043e\u043c \u0437\u0435\u043b\u0435\u043d\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435, \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430, \u0432 5 \u043c\u0438\u043d\u0443\u0442\u0430\u0445 \u0445\u043e\u0434\u044c\u0431\u044b \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u0438 \u0432 4 \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430\u0445 \u043c\u0435\u0442\u0440\u043e \u043e\u0442 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/264250538.webp?k=5e6195fee407721541e25427130258ee80699640ac90416d1dab28b8b85124b2&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/charly.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=67&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hilton Milan",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u042d\u043b\u0435\u0433\u0430\u043d\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c Hilton Milan \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 200 \u043c\u0435\u0442\u0440\u0430\u0445 \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u041c\u0438\u043b\u0430\u043d\u0430 \u0438 \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e. \u041d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0445\u043e\u0440\u043e\u0448\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0442\u0440\u0435\u043d\u0430\u0436\u0435\u0440\u043d\u044b\u0439 \u0437\u0430\u043b.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/484068168.webp?k=3124f74595ffe70dd459fdafabe6c7e71c96b9158ef950804555d5edf8502606&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/hilton-milan.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=68&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Palazzo Segreti",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "500 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Palazzo Segreti \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u041c\u0438\u043b\u0430\u043d\u0435, \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0412\u0438\u0430-\u0414\u0430\u043d\u0442\u0435, \u043c\u0435\u0436\u0434\u0443 \u041c\u0438\u043b\u0430\u043d\u0441\u043a\u0438\u043c \u0441\u043e\u0431\u043e\u0440\u043e\u043c \u0438 \u043f\u0430\u043b\u0430\u0446\u0446\u043e \u0421\u0444\u043e\u0440\u0446\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/369950787.webp?k=fc92810debcee5143cd796320d86ea75653dcfb970bd1ee2906db6ccafa49a81&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/palazzo-segreti.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=69&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hotel Rio",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 7,6",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "150 \u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043e\u0447\u0430\u0440\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043e\u0442\u0435\u043b\u044c Rio \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0412\u0438\u0430-\u041c\u0430\u0434\u0437\u0438\u043d\u0438 \u043d\u0435\u043f\u043e\u0434\u0430\u043b\u0435\u043a\u0443 \u043e\u0442 \u043a\u0430\u0444\u0435\u0434\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043e\u0431\u043e\u0440\u0430 \u041c\u0438\u043b\u0430\u043d\u0430. \u0414\u043e \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043c\u0435\u0442\u0440\u043e Duomo (\u043a\u0440\u0430\u0441\u043d\u0430\u044f \u043b\u0438\u043d\u0438\u044f) \u0432\u0441\u0435\u0433\u043e 100 \u043c\u0435\u0442\u0440\u043e\u0432.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/85999851.webp?k=f2490708e94087b0e41838d871d1230859077b8c2e962bebc17060d6f0c9fb4e&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/rio-milano.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=70&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Antica corte Navigli-Darsena",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 9,1",
+    "address": "\u041d\u0430\u0432\u0438\u043b\u044c\u0438, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "Antica corte Navigli-Darsena \u2014 \u044d\u0442\u043e \u0430\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d, \u0432 \u043c\u0435\u043d\u0435\u0435 \u0447\u0435\u043c 1 \u043a\u043c \u0438 1,3 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439: \u0420\u0430\u0439\u043e\u043d \u0414\u0430\u0440\u0441\u0435\u043d\u0430 \u0438 \u041c\u0443\u0437\u0435\u0439 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b MUDEC.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/618271453.webp?k=f3162fe228541168074b85c3e7879016c4cabd86d941a880f1ea39fa9fd00856&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/appartamento-antica-corte-navigli-darsena.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=71&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "IH Hotels Milano Centrale",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "2,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "IH Hotels Milano Centrale \u2014 \u044d\u0442\u043e \u043e\u0442\u0435\u043b\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0438\u043b\u0430\u043d (\u041b\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u044f), \u0432 200 \u043c \u0438 1,1 \u043a\u043c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043e\u0442 \u0442\u0430\u043a\u0438\u0445 \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u0430\u043a \u0421\u0442\u0430\u043d\u0446\u0438\u044f \u043c\u0435\u0442\u0440\u043e Centrale \u0438 \u0416\u0438\u043b\u043e\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u00ab\u0412\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u043b\u0435\u0441\u00bb.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/481942837.webp?k=40e30e17ea32f539088c208860928d0d3aa6c294562d56de442c612b03cdc72e&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/ih-hotels-milano-centrale.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=72&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Genius Hotel Downtown",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,4",
+    "address": "\u041c\u0438\u043b\u0430\u043d - \u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "0,6 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u0412 \u043e\u0442\u0435\u043b\u0435 Genius Downtown \u0433\u043e\u0441\u0442\u044f\u043c \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u044e\u0442 \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u0432 \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u0430\u0431\u0435\u043b\u044c\u043d\u044b\u0445 \u043d\u043e\u043c\u0435\u0440\u0430\u0445 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u041c\u0438\u043b\u0430\u043d\u0430. \u041e\u0442\u0435\u043b\u044c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0442\u0438\u0445\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435 \u043d\u0435\u0434\u0430\u043b\u0435\u043a\u043e \u043e\u0442 \u0443\u043b\u0438\u0446\u044b \u0412\u0438\u0430-\u0414\u0430\u043d\u0442\u0435.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/26301650.webp?k=34ef82cf2e56ece2037071ebdf0490561451a7f9331728d687304dd0f2789c59&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/genius-downtown.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=73&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from=searchresults"
+  },
+  {
+    "name": "Hilton Garden Inn Milan North",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,2",
+    "address": "\u0412\u0438\u0430\u043b\u0435 \u041c\u043e\u043d\u0446\u0430, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "6,5 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Hilton Garden Inn \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u043e\u0439 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u0441\u0435\u0432\u0435\u0440\u043e-\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0439 \u0447\u0430\u0441\u0442\u0438 \u041c\u0438\u043b\u0430\u043d\u0430.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/484095022.webp?k=4d828d39e5f916f00e0e587997804ad6b459998169112f49d3a0a474af256a58&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/hilton-garden-inn-milan-north.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=74&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from_sustainable_property_sr=1&from=searchresults"
+  },
+  {
+    "name": "Biocity",
+    "rating": "\u041e\u0446\u0435\u043d\u043a\u0430 8,8",
+    "address": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u041c\u0438\u043b\u0430\u043d",
+    "distance": "3,4 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430",
+    "description": "\u041e\u0442\u0435\u043b\u044c Biocity, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0440\u044f\u0434\u043e\u043c \u0441 \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0439 \u0434\u043e\u0440\u043e\u0433\u043e\u0439 \u0438 \u0432 1 \u043a\u043c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430 \u041c\u0438\u043b\u0430\u043d\u0430, \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u044d\u043b\u0435\u0433\u0430\u043d\u0442\u043d\u0443\u044e \u0432\u0438\u043b\u043b\u0443 \u043d\u0430\u0447\u0430\u043b\u0430 1920-\u0445 \u0433\u043e\u0434\u043e\u0432.",
+    "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/81974079.webp?k=c91feff10164dae8723f773494f6b92f561f5a580497c87bbc87e2ceb2f8367e&o=",
+    "hotel_url": "https://www.booking.com/hotel/it/biocity.ru.html?aid=304142&label=gen173nr-1FCAQoggJCEXNlYXJjaF_QvNC40LvQsNC9SCFYBGjCAYgBAZgBIbgBF8gBDNgBAegBAfgBA4gCAagCA7gC57jewQbAAgHSAiRmOGJjOGI1Zi01MWYyLTRmMGItYTIxYi0xNGIwMmZmNThhNWPYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=75&sr_order=popularity&srpvid=ce39a533a5410726&srepoch=1748474990&from_sustainable_property_sr=1&from=searchresults"
+  }
+]

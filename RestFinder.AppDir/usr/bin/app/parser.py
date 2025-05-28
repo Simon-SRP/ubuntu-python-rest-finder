@@ -15,7 +15,7 @@ def get_available_cities(data_dir="city"):
         current_dir = os.path.dirname(os.path.abspath(__file__))
         data_path = os.path.join(current_dir, data_dir)
 
-        print(f"[DEBUG] Ищем города в: {data_path}")  # Отладочный вывод
+        print(f"[DEBUG] Ищем города в: {data_path}")
 
         if not os.path.exists(data_path):
             print(f"[DEBUG] Папка {data_path} не найдена!")
@@ -26,7 +26,7 @@ def get_available_cities(data_dir="city"):
             if filename.endswith('.json'):
                 city_name = filename[:-5]  # Убираем .json
                 cities.append(city_name)
-                print(f"[DEBUG] Найден город: {city_name}")  # Отладочный вывод
+                print(f"[DEBUG] Найден город: {city_name}")
 
         return sorted(cities, key=lambda x: x.lower())
 
@@ -50,7 +50,8 @@ class BookingParser:
             options.add_argument("--disable-dev-shm-usage")
             options.add_argument("--window-size=1920,1080")
             options.add_argument(
-                "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36")
+                "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/90.0.4430.212 Safari/537.36")
             options.add_argument("--disable-blink-features=AutomationControlled")
             options.add_experimental_option("excludeSwitches", ["enable-automation"])
 
@@ -60,7 +61,6 @@ class BookingParser:
             )
 
     def search_hotels(self, city_name):
-        """Парсит отели и возвращает все найденные"""
         city_file = os.path.join(self.data_dir, f"{city_name}.json")
 
         self._init_driver()
@@ -89,7 +89,6 @@ class BookingParser:
             }
             hotels_data.append(hotel_info)
 
-        # Сохраняем все данные
         with open(city_file, 'w', encoding='utf-8') as f:
             json.dump(hotels_data, f, ensure_ascii=False, indent=2)
 
